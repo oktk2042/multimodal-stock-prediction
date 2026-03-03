@@ -38,7 +38,12 @@
 | 累積リターン | +13.3% | **+24.5%** |
 | シャープレシオ | 2.07 | **3.25** |
 
-研究の詳細は **[RESEARCH.md](RESEARCH.md)** を参照。
+研究の詳細は **[RESEARCH.md](docs/RESEARCH.md)** を参照。
+
+その他のドキュメント:
+- [IMPROVEMENTS.md](docs/IMPROVEMENTS.md) — 今後の改善設計ノート
+- [SKILLS.md](docs/SKILLS.md) — 技術スキル評価
+- [CAREER_ROADMAP.md](docs/CAREER_ROADMAP.md) — キャリアロードマップ
 
 ---
 
