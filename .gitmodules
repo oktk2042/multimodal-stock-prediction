@@ -1,0 +1,3 @@
+[submodule "1_data/chABSA-dataset"]
+	path = 1_data/chABSA-dataset
+	url = https://github.com/chakki-works/chABSA-dataset.git

@@ -1,0 +1,137 @@
+# ============================================================
+# Environment & Secrets
+# ============================================================
+.env
+.env.local
+.env.*.local
+
+# ============================================================
+# Python
+# ============================================================
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================================================
+# Data (large files - see README for acquisition instructions)
+# ============================================================
+# EDINET financial reports (ZIP archives, multi-GB)
+1_data/edinet_reports/01_zip_files/
+1_data/edinet_reports/01_zip_files_all/
+1_data/edinet_reports/01_zip_files_indices/
+1_data/edinet_reports/02_unzipped_files/
+1_data/edinet_reports/03_organized_by_code/
+
+# Stock price data (per-stock CSVs)
+1_data/stock_prices/
+1_data/stock_charts/
+
+# chABSA-dataset is managed as git submodule (see .gitmodules)
+
+# Processed data (regenerable via pipeline - see README)
+# Keep only small metadata files; exclude bulk data
+1_data/processed/news_by_code/
+1_data/processed/price_by_code/
+1_data/processed/final_datasets_yearly/
+1_data/processed/collected_news_historical_full.csv
+1_data/processed/collected_headlines.csv
+1_data/processed/all_stock_prices.csv
+1_data/processed/news_sentiment_historical.csv
+1_data/processed/stock_data_with_technical_features.csv
+1_data/processed/stock_data_with_all_technicals.csv
+1_data/processed/stock_data_features_v1.csv
+1_data/processed/final_modeling_dataset.csv
+1_data/processed/final_modeling_dataset_v5.csv
+1_data/processed/final_model_input_dataset.csv
+1_data/processed/final_data_top200.csv
+1_data/processed/dataset_for_modeling_top200.csv
+1_data/processed/dataset_for_modeling_top200_final.csv
+1_data/processed/integrated_final_dataset.csv
+1_data/processed/integrated_final_dataset_v3.csv
+1_data/processed/integrated_financial_and_stock_data_v2.csv
+1_data/processed/preprocessed_top200_daily_data.csv
+1_data/processed/EDINET_Summary_v3.csv
+1_data/processed/extracted_financial_data.csv
+1_data/processed/*.xlsx
+
+# EDINET metadata (large)
+1_data/edinet_reports/00_metadata/
+
+# Modeling data (NPZ arrays, model weights, scalers)
+1_data/modeling_data/
+
+# Misc data files
+1_data/directory_list.txt
+1_data/directory_structure.txt
+1_data/project_structure.txt
+1_data/requirements.txt
+1_data/log.txt
+1_data/processing.log
+1_data/processing_hybrid.log
+
+# ============================================================
+# Trained Models (large binary files)
+# ============================================================
+4_models/
+
+# Model weights in reports
+3_reports/**/*.pth
+
+# Intermediate training outputs (duplicated in final_consolidated_v2/)
+3_reports/phase3_production_deep_strict/
+3_reports/phase3_production_lgbm_strict/
+3_reports/phase3_production_ridge_strict/
+3_reports/phase3_production_strict/
+
+# ============================================================
+# Archive (legacy experiment code - see archive branch)
+# ============================================================
+2_src/99_archive/
+2_src/models/99_archive/
+
+# ============================================================
+# Logs & Temporary
+# ============================================================
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# ============================================================
+# OS-specific
+# ============================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ============================================================
+# IDE
+# ============================================================
+.vscode/
+.idea/
+*.code-workspace
+
+# ============================================================
+# Documents (non-code)
+# ============================================================
+*.docx
+*.pdf
+
+# ============================================================
+# Jupyter
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# uv
+# ============================================================
+# uv.lock is committed (reproducible builds)
+# .python-version is committed

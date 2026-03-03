@@ -1,0 +1,5271 @@
+{
+    "1332": {
+        "search_keywords": [
+            "Nissui",
+            "Nissui Corporation",
+            "ニッスイ"
+        ],
+        "sector": "水産・農林業"
+    },
+    "135A": {
+        "search_keywords": [
+            "VRAIN Solution,Inc.",
+            "ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "1414": {
+        "search_keywords": [
+            "SHO-BOND Holdings Co.,Ltd.",
+            "ショーボンドホールディングス"
+        ],
+        "sector": "建設業"
+    },
+    "1419": {
+        "search_keywords": [
+            "Tama Home Co.,Ltd.",
+            "タマホーム"
+        ],
+        "sector": "建設業"
+    },
+    "141A": {
+        "search_keywords": [
+            "TRIAL Holdings,Inc.",
+            "トライアルホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "1431": {
+        "search_keywords": [
+            "Lib Work Co.,Ltd.",
+            "Ｌｉｂ　Ｗｏｒｋ"
+        ],
+        "sector": "建設業"
+    },
+    "1436": {
+        "search_keywords": [
+            "GreenEnergy & Company",
+            "GreenEnergy & Company Inc.",
+            "グリーンエナジー＆カンパニー"
+        ],
+        "sector": "建設業"
+    },
+    "1447": {
+        "search_keywords": [
+            "SAAF Holdings Co.,Ltd.",
+            "ＳＡＡＦホールディングス"
+        ],
+        "sector": "建設業"
+    },
+    "147A": {
+        "search_keywords": [
+            "SORACOM,INC.",
+            "ソラコム"
+        ],
+        "sector": "情報･通信業"
+    },
+    "1518": {
+        "search_keywords": [
+            "MITSUI MATSUSHIMA HOLDINGS CO.,LTD.",
+            "三井松島ホールディングス"
+        ],
+        "sector": "その他製品"
+    },
+    "151A": {
+        "search_keywords": [
+            "Dive",
+            "Dive Inc.",
+            "ダイブ"
+        ],
+        "sector": "サービス業"
+    },
+    "153A": {
+        "search_keywords": [
+            "Caulis",
+            "Caulis Inc.",
+            "カウリス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "156A": {
+        "search_keywords": [
+            "Material Group",
+            "Material Group Inc.",
+            "マテリアルグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "1605": {
+        "search_keywords": [
+            "INPEX CORPORATION",
+            "ＩＮＰＥＸ"
+        ],
+        "sector": "鉱業"
+    },
+    "165A": {
+        "search_keywords": [
+            "SBI RHEOS HIFUMI",
+            "SBI RHEOS HIFUMI Inc.",
+            "ＳＢＩレオスひふみ"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "1662": {
+        "search_keywords": [
+            "Japan Petroleum Exploration Co.,Ltd.",
+            "石油資源開発"
+        ],
+        "sector": "鉱業"
+    },
+    "166A": {
+        "search_keywords": [
+            "TASUKI Holdings",
+            "TASUKI Holdings Inc.",
+            "タスキホールディングス"
+        ],
+        "sector": "不動産業"
+    },
+    "1719": {
+        "search_keywords": [
+            "HAZAMA ANDO CORPORATION",
+            "安藤・間"
+        ],
+        "sector": "建設業"
+    },
+    "1721": {
+        "search_keywords": [
+            "COMSYS Holdings",
+            "COMSYS Holdings Corporation",
+            "コムシスホールディングス",
+            "コムシスＨＤ"
+        ],
+        "sector": "建設業"
+    },
+    "176A": {
+        "search_keywords": [
+            "Rezil",
+            "Rezil Inc.",
+            "レジル"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "177A": {
+        "search_keywords": [
+            "Kohjin Bio Co.,Ltd.",
+            "コージンバイオ"
+        ],
+        "sector": "化学"
+    },
+    "1801": {
+        "search_keywords": [
+            "TAISEI CORPORATION",
+            "大成建",
+            "大成建設"
+        ],
+        "sector": "建設業"
+    },
+    "1802": {
+        "search_keywords": [
+            "OBAYASHI CORPORATION",
+            "大林組"
+        ],
+        "sector": "建設業"
+    },
+    "1803": {
+        "search_keywords": [
+            "SHIMIZU CORPORATION",
+            "清水建",
+            "清水建設"
+        ],
+        "sector": "建設業"
+    },
+    "1808": {
+        "search_keywords": [
+            "HASEKO",
+            "HASEKO Corporation",
+            "長谷工",
+            "長谷工コーポレーション"
+        ],
+        "sector": "建設業"
+    },
+    "1812": {
+        "search_keywords": [
+            "KAJIMA CORPORATION",
+            "鹿島",
+            "鹿島建設"
+        ],
+        "sector": "建設業"
+    },
+    "186A": {
+        "search_keywords": [
+            "Astroscale Holdings",
+            "Astroscale Holdings Inc.",
+            "アストロスケールホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "1878": {
+        "search_keywords": [
+            "DAITO TRUST CONSTRUCTION CO.,LTD.",
+            "大東建託"
+        ],
+        "sector": "不動産業"
+    },
+    "190A": {
+        "search_keywords": [
+            "Chordia Therapeutics",
+            "Chordia Therapeutics Inc.",
+            "Ｃｈｏｒｄｉａ　Ｔｈｅｒａｐｅｕｔｉｃｓ"
+        ],
+        "sector": "医薬品"
+    },
+    "1911": {
+        "search_keywords": [
+            "Sumitomo Forestry Co.,Ltd.",
+            "住友林業"
+        ],
+        "sector": "建設業"
+    },
+    "1925": {
+        "search_keywords": [
+            "DAIWA HOUSE INDUSTRY CO.,LTD.",
+            "ハウス",
+            "大和ハウス工業"
+        ],
+        "sector": "建設業"
+    },
+    "1928": {
+        "search_keywords": [
+            "Sekisui House,Ltd.",
+            "積ハウス",
+            "積水ハウス"
+        ],
+        "sector": "建設業"
+    },
+    "192A": {
+        "search_keywords": [
+            "Integroup",
+            "Integroup Inc.",
+            "インテグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "1942": {
+        "search_keywords": [
+            "KANDENKO CO.,LTD.",
+            "関電工"
+        ],
+        "sector": "建設業"
+    },
+    "194A": {
+        "search_keywords": [
+            "WOLVES HAND Co.,Ltd.",
+            "ＷＯＬＶＥＳ　ＨＡＮＤ"
+        ],
+        "sector": "サービス業"
+    },
+    "1951": {
+        "search_keywords": [
+            "EXEO Group,Inc.",
+            "エクシオグループ"
+        ],
+        "sector": "建設業"
+    },
+    "1959": {
+        "search_keywords": [
+            "KYUDENKO CORPORATION",
+            "九電工"
+        ],
+        "sector": "建設業"
+    },
+    "1963": {
+        "search_keywords": [
+            "JGC HOLDINGS CORPORATION",
+            "日揮ホールディングス",
+            "日揮ＨＤ"
+        ],
+        "sector": "建設業"
+    },
+    "1969": {
+        "search_keywords": [
+            "Takasago Thermal Engineering Co.,Ltd.",
+            "高砂熱学工業"
+        ],
+        "sector": "建設業"
+    },
+    "198A": {
+        "search_keywords": [
+            "PostPrime",
+            "PostPrime Inc.",
+            "ＰｏｓｔＰｒｉｍｅ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "2002": {
+        "search_keywords": [
+            "NISSHIN SEIFUN GROUP INC.",
+            "日清粉Ｇ",
+            "日清製粉グループ本社"
+        ],
+        "sector": "食料品"
+    },
+    "202A": {
+        "search_keywords": [
+            "MAMEZO DIGITAL HOLDINGS CO.,LTD.",
+            "豆蔵デジタルホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "205A": {
+        "search_keywords": [
+            "LOGOS HOLDINGS INC.",
+            "ロゴスホールディングス"
+        ],
+        "sector": "建設業"
+    },
+    "206A": {
+        "search_keywords": [
+            "PRISM BioLab Co.,LTD",
+            "ＰＲＩＳＭ　ＢｉｏＬａｂ"
+        ],
+        "sector": "医薬品"
+    },
+    "2124": {
+        "search_keywords": [
+            "JAC Recruitment Co.,Ltd.",
+            "ジェイエイシーリクルートメント"
+        ],
+        "sector": "サービス業"
+    },
+    "2127": {
+        "search_keywords": [
+            "Nihon M&A Center Holdings",
+            "Nihon M&A Center Holdings Inc.",
+            "日本Ｍ＆Ａセンターホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "2154": {
+        "search_keywords": [
+            "Open Up Group",
+            "Open Up Group Inc.",
+            "オープンアップグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "2158": {
+        "search_keywords": [
+            "FRONTEO,Inc.",
+            "ＦＲＯＮＴＥＯ"
+        ],
+        "sector": "サービス業"
+    },
+    "215A": {
+        "search_keywords": [
+            "Timee,Inc.",
+            "タイミー"
+        ],
+        "sector": "サービス業"
+    },
+    "2160": {
+        "search_keywords": [
+            "GNI Group",
+            "GNI Group Ltd.",
+            "ジーエヌアイグループ"
+        ],
+        "sector": "医薬品"
+    },
+    "2168": {
+        "search_keywords": [
+            "Pasona Group",
+            "Pasona Group Inc.",
+            "パソナグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "2173": {
+        "search_keywords": [
+            "Hakuten",
+            "Hakuten Corporation",
+            "博展"
+        ],
+        "sector": "サービス業"
+    },
+    "2181": {
+        "search_keywords": [
+            "PERSOL HOLDINGS CO.,LTD.",
+            "パーソルホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "218A": {
+        "search_keywords": [
+            "Liberaware Co.,Ltd.",
+            "Ｌｉｂｅｒａｗａｒｅ"
+        ],
+        "sector": "精密機器"
+    },
+    "2195": {
+        "search_keywords": [
+            "AMITA HOLDINGS CO.,LTD.",
+            "アミタホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "219A": {
+        "search_keywords": [
+            "Heartseed",
+            "Heartseed Inc.",
+            "Ｈｅａｒｔｓｅｅｄ"
+        ],
+        "sector": "医薬品"
+    },
+    "2201": {
+        "search_keywords": [
+            "Morinaga & Co.,Ltd.",
+            "森永製菓"
+        ],
+        "sector": "食料品"
+    },
+    "2222": {
+        "search_keywords": [
+            "Kotobuki Spirits Co.,Ltd.",
+            "寿スピリッツ"
+        ],
+        "sector": "食料品"
+    },
+    "2229": {
+        "search_keywords": [
+            "CALBEE,Inc.",
+            "カルビー"
+        ],
+        "sector": "食料品"
+    },
+    "2264": {
+        "search_keywords": [
+            "MORINAGA MILK INDUSTRY CO.,LTD.",
+            "森永乳業"
+        ],
+        "sector": "食料品"
+    },
+    "2267": {
+        "search_keywords": [
+            "YAKULT HONSHA CO.,LTD.",
+            "ヤクルト本社"
+        ],
+        "sector": "食料品"
+    },
+    "2269": {
+        "search_keywords": [
+            "Meiji Holdings Co.,Ltd.",
+            "明治ホールディングス",
+            "明治ＨＤ"
+        ],
+        "sector": "食料品"
+    },
+    "2282": {
+        "search_keywords": [
+            "NH Foods",
+            "NH Foods Ltd.",
+            "日ハム",
+            "日本ハム"
+        ],
+        "sector": "食料品"
+    },
+    "228A": {
+        "search_keywords": [
+            "OPRO Co.,Ltd.",
+            "オプロ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "2317": {
+        "search_keywords": [
+            "Systena",
+            "Systena Corporation",
+            "システナ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "2327": {
+        "search_keywords": [
+            "NS Solutions",
+            "NS Solutions Corporation",
+            "日鉄ソリューションズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "2370": {
+        "search_keywords": [
+            "MEDINET Co.,Ltd.",
+            "メディネット"
+        ],
+        "sector": "サービス業"
+    },
+    "2371": {
+        "search_keywords": [
+            "Kakaku.com,Inc.",
+            "カカクコム"
+        ],
+        "sector": "サービス業"
+    },
+    "2379": {
+        "search_keywords": [
+            "dip",
+            "dip Corporation",
+            "ディップ"
+        ],
+        "sector": "サービス業"
+    },
+    "2384": {
+        "search_keywords": [
+            "SBS Holdings,Inc.",
+            "ＳＢＳホールディングス"
+        ],
+        "sector": "陸運業"
+    },
+    "2413": {
+        "search_keywords": [
+            "M3,Inc.",
+            "エムスリー"
+        ],
+        "sector": "サービス業"
+    },
+    "241A": {
+        "search_keywords": [
+            "ROXX,inc.",
+            "ＲＯＸＸ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "2432": {
+        "search_keywords": [
+            "DeNA Co.,Ltd.",
+            "ディーエヌエ",
+            "ディー・エヌ・エー"
+        ],
+        "sector": "サービス業"
+    },
+    "2438": {
+        "search_keywords": [
+            "Asukanet Company,Limited",
+            "アスカネット"
+        ],
+        "sector": "サービス業"
+    },
+    "244A": {
+        "search_keywords": [
+            "Growth xPartners,Inc.",
+            "グロースエクスパートナーズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "245A": {
+        "search_keywords": [
+            "INGS inc.",
+            "ＩＮＧＳ"
+        ],
+        "sector": "小売業"
+    },
+    "246A": {
+        "search_keywords": [
+            "ASUA",
+            "ASUA Inc.",
+            "アスア"
+        ],
+        "sector": "サービス業"
+    },
+    "247A": {
+        "search_keywords": [
+            "Ai ROBOTICS INC.",
+            "Ａｉロボティクス"
+        ],
+        "sector": "化学"
+    },
+    "248A": {
+        "search_keywords": [
+            "KIDS STAR",
+            "KIDS STAR Inc.",
+            "キッズスター"
+        ],
+        "sector": "情報･通信業"
+    },
+    "2497": {
+        "search_keywords": [
+            "UNITED,Inc.",
+            "ユナイテッド"
+        ],
+        "sector": "サービス業"
+    },
+    "2501": {
+        "search_keywords": [
+            "SAPPORO HOLDINGS LIMITED",
+            "サッポロホールディングス",
+            "サッポロＨＤ"
+        ],
+        "sector": "食料品"
+    },
+    "2502": {
+        "search_keywords": [
+            "Asahi Group Holdings,Ltd.",
+            "アサヒ",
+            "アサヒグループホールディングス"
+        ],
+        "sector": "食料品"
+    },
+    "2503": {
+        "search_keywords": [
+            "Kirin Holdings Company,Limited",
+            "キリンホールディングス",
+            "キリンＨＤ"
+        ],
+        "sector": "食料品"
+    },
+    "2531": {
+        "search_keywords": [
+            "TAKARA HOLDINGS INC.",
+            "宝ホールディングス"
+        ],
+        "sector": "食料品"
+    },
+    "2587": {
+        "search_keywords": [
+            "Suntory Beverage & Food Limited",
+            "サントリー食品インターナショナル"
+        ],
+        "sector": "食料品"
+    },
+    "2670": {
+        "search_keywords": [
+            "ABC-MART,INC.",
+            "エービーシー・マート"
+        ],
+        "sector": "小売業"
+    },
+    "2678": {
+        "search_keywords": [
+            "ASKUL",
+            "ASKUL Corporation",
+            "アスクル"
+        ],
+        "sector": "小売業"
+    },
+    "2685": {
+        "search_keywords": [
+            "Adastria Co.,Ltd.",
+            "アダストリア"
+        ],
+        "sector": "小売業"
+    },
+    "2702": {
+        "search_keywords": [
+            "McDonald's Holdings Company(Japan),Ltd.",
+            "日本マクドナルドホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "2726": {
+        "search_keywords": [
+            "PAL GROUP Holdings CO.,LTD",
+            "パルグループホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "2760": {
+        "search_keywords": [
+            "TOKYO ELECTRON DEVICE LIMITED",
+            "東京エレクトロン　デバイス"
+        ],
+        "sector": "卸売業"
+    },
+    "2767": {
+        "search_keywords": [
+            "TSUBURAYA FIELDS HOLDINGS INC.",
+            "円谷フィールズホールディングス"
+        ],
+        "sector": "卸売業"
+    },
+    "2768": {
+        "search_keywords": [
+            "Sojitz",
+            "Sojitz Corporation",
+            "双日"
+        ],
+        "sector": "卸売業"
+    },
+    "2801": {
+        "search_keywords": [
+            "KIKKOMAN CORPORATION",
+            "キッコマン",
+            "キッコーマン"
+        ],
+        "sector": "食料品"
+    },
+    "2802": {
+        "search_keywords": [
+            "Ajinomoto Co.,Inc.",
+            "味の素"
+        ],
+        "sector": "食料品"
+    },
+    "2811": {
+        "search_keywords": [
+            "KAGOME CO.,LTD.",
+            "カゴメ"
+        ],
+        "sector": "食料品"
+    },
+    "2871": {
+        "search_keywords": [
+            "NICHIREI CORPORATION",
+            "ニチレイ"
+        ],
+        "sector": "食料品"
+    },
+    "2875": {
+        "search_keywords": [
+            "TOYO SUISAN KAISHA,LTD.",
+            "東洋水産"
+        ],
+        "sector": "食料品"
+    },
+    "2897": {
+        "search_keywords": [
+            "NISSIN FOODS HOLDINGS CO.,LTD.",
+            "日清食品ホールディングス"
+        ],
+        "sector": "食料品"
+    },
+    "2914": {
+        "search_keywords": [
+            "JAPAN TOBACCO INC.",
+            "日本たばこ産業",
+            "ＪＴ"
+        ],
+        "sector": "食料品"
+    },
+    "2934": {
+        "search_keywords": [
+            "J Frontier Co.,Ltd.",
+            "ジェイフロンティア"
+        ],
+        "sector": "食料品"
+    },
+    "2936": {
+        "search_keywords": [
+            "BASE FOOD,Inc.",
+            "ベースフード"
+        ],
+        "sector": "食料品"
+    },
+    "2937": {
+        "search_keywords": [
+            "St.Cousair CO.,LTD.",
+            "サンクゼール"
+        ],
+        "sector": "食料品"
+    },
+    "2978": {
+        "search_keywords": [
+            "TSUKURUBA",
+            "TSUKURUBA Inc.",
+            "ツクルバ"
+        ],
+        "sector": "不動産業"
+    },
+    "2986": {
+        "search_keywords": [
+            "LA Holdings Co.,Ltd.",
+            "ＬＡホールディングス"
+        ],
+        "sector": "不動産業"
+    },
+    "2998": {
+        "search_keywords": [
+            "CREAL",
+            "CREAL Inc.",
+            "クリアル"
+        ],
+        "sector": "不動産業"
+    },
+    "3003": {
+        "search_keywords": [
+            "Hulic Co.,Ltd.",
+            "ヒューリック"
+        ],
+        "sector": "不動産業"
+    },
+    "3038": {
+        "search_keywords": [
+            "KOBE BUSSAN CO.,LTD.",
+            "神戸物産"
+        ],
+        "sector": "卸売業"
+    },
+    "3063": {
+        "search_keywords": [
+            "j-Group Holdings Corp.",
+            "ジェイグループホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3064": {
+        "search_keywords": [
+            "MonotaRO Co.,Ltd.",
+            "ＭｏｎｏｔａＲＯ"
+        ],
+        "sector": "小売業"
+    },
+    "3086": {
+        "search_keywords": [
+            "J.FRONT RETAILING Co.,Ltd.",
+            "Ｊフロント",
+            "Ｊ．フロント　リテイリング"
+        ],
+        "sector": "小売業"
+    },
+    "3088": {
+        "search_keywords": [
+            "MatsukiyoCocokara &",
+            "MatsukiyoCocokara & Co.",
+            "マツキヨココカラ＆カンパニー"
+        ],
+        "sector": "小売業"
+    },
+    "3092": {
+        "search_keywords": [
+            "ZOZO,Inc.",
+            "ＺＯＺＯ"
+        ],
+        "sector": "小売業"
+    },
+    "3099": {
+        "search_keywords": [
+            "Isetan Mitsukoshi Holdings",
+            "Isetan Mitsukoshi Holdings Ltd.",
+            "三越伊勢丹",
+            "三越伊勢丹ホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3107": {
+        "search_keywords": [
+            "Daiwabo Holdings Co.,Ltd.",
+            "ダイワボウホールディングス"
+        ],
+        "sector": "卸売業"
+    },
+    "3116": {
+        "search_keywords": [
+            "TOYOTA BOSHOKU CORPORATION",
+            "トヨタ紡織"
+        ],
+        "sector": "輸送用機器"
+    },
+    "3132": {
+        "search_keywords": [
+            "MACNICA HOLDINGS,INC.",
+            "マクニカホールディングス"
+        ],
+        "sector": "卸売業"
+    },
+    "3133": {
+        "search_keywords": [
+            "kaihan co.,Ltd.",
+            "海帆"
+        ],
+        "sector": "小売業"
+    },
+    "3140": {
+        "search_keywords": [
+            "BRUNO,Inc.",
+            "ＢＲＵＮＯ"
+        ],
+        "sector": "卸売業"
+    },
+    "3141": {
+        "search_keywords": [
+            "WELCIA HOLDINGS CO.,LTD.",
+            "ウエルシアホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3148": {
+        "search_keywords": [
+            "CREATE SD HOLDINGS CO.,LTD.",
+            "クリエイトＳＤホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3186": {
+        "search_keywords": [
+            "NEXTAGE Co.,Ltd.",
+            "ネクステージ"
+        ],
+        "sector": "小売業"
+    },
+    "3187": {
+        "search_keywords": [
+            "miratap inc.",
+            "ミラタップ"
+        ],
+        "sector": "小売業"
+    },
+    "3231": {
+        "search_keywords": [
+            "Nomura Real Estate Holdings,Inc.",
+            "野村不動産ホールディングス"
+        ],
+        "sector": "不動産業"
+    },
+    "3288": {
+        "search_keywords": [
+            "Open House Group Co.,Ltd.",
+            "オープンハウスグループ"
+        ],
+        "sector": "不動産業"
+    },
+    "3289": {
+        "search_keywords": [
+            "Tokyu Fudosan Holdings",
+            "Tokyu Fudosan Holdings Corporation",
+            "東急不動産ホールディングス",
+            "東急不ＨＤ"
+        ],
+        "sector": "不動産業"
+    },
+    "3291": {
+        "search_keywords": [
+            "Iida Group Holdings Co.,Ltd.",
+            "飯田グループホールディングス"
+        ],
+        "sector": "不動産業"
+    },
+    "3300": {
+        "search_keywords": [
+            "AMBITION DX HOLDINGS Co.,Ltd.",
+            "アンビション　ＤＸ　ホールディングス"
+        ],
+        "sector": "不動産業"
+    },
+    "3349": {
+        "search_keywords": [
+            "COSMOS Pharmaceutical",
+            "COSMOS Pharmaceutical Corporation",
+            "コスモス薬品"
+        ],
+        "sector": "小売業"
+    },
+    "3360": {
+        "search_keywords": [
+            "SHIP HEALTHCARE HOLDINGS,INC.",
+            "シップヘルスケアホールディングス"
+        ],
+        "sector": "卸売業"
+    },
+    "3382": {
+        "search_keywords": [
+            "Seven & i Holdings Co.,Ltd.",
+            "セブン＆アイ",
+            "セブン＆アイ・ホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3391": {
+        "search_keywords": [
+            "TSURUHA HOLDINGS INC.",
+            "ツルハホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3401": {
+        "search_keywords": [
+            "TEIJIN LIMITED",
+            "帝人"
+        ],
+        "sector": "繊維製品"
+    },
+    "3402": {
+        "search_keywords": [
+            "TORAY INDUSTRIES,INC.",
+            "東レ"
+        ],
+        "sector": "繊維製品"
+    },
+    "3405": {
+        "search_keywords": [
+            "KURARAY CO.,LTD.",
+            "クラレ"
+        ],
+        "sector": "化学"
+    },
+    "3407": {
+        "search_keywords": [
+            "ASAHI KASEI CORPORATION",
+            "旭化成"
+        ],
+        "sector": "化学"
+    },
+    "3418": {
+        "search_keywords": [
+            "BALNIBARBI Co.,Ltd.",
+            "バルニバービ"
+        ],
+        "sector": "小売業"
+    },
+    "3436": {
+        "search_keywords": [
+            "SUMCO CORPORATION",
+            "ＳＵＭＣＯ"
+        ],
+        "sector": "金属製品"
+    },
+    "3465": {
+        "search_keywords": [
+            "KI-STAR REAL ESTATE CO.,LTD",
+            "ケイアイスター不動産"
+        ],
+        "sector": "不動産業"
+    },
+    "3479": {
+        "search_keywords": [
+            "TKP",
+            "TKP Corporation",
+            "ティーケーピー"
+        ],
+        "sector": "不動産業"
+    },
+    "3491": {
+        "search_keywords": [
+            "GAtechnologies Co.,Ltd.",
+            "ＧＡ　ｔｅｃｈｎｏｌｏｇｉｅｓ"
+        ],
+        "sector": "不動産業"
+    },
+    "3496": {
+        "search_keywords": [
+            "AZOOM CO.,LTD",
+            "アズーム"
+        ],
+        "sector": "不動産業"
+    },
+    "3542": {
+        "search_keywords": [
+            "Vega corporation Co.,Ltd.",
+            "ベガコーポレーション"
+        ],
+        "sector": "小売業"
+    },
+    "3549": {
+        "search_keywords": [
+            "KUSURI NO AOKI HOLDINGS CO.,LTD.",
+            "クスリのアオキホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "3558": {
+        "search_keywords": [
+            "JADE GROUP,Inc.",
+            "ジェイドグループ"
+        ],
+        "sector": "小売業"
+    },
+    "3563": {
+        "search_keywords": [
+            "FOOD & LIFE COMPANIES LTD.",
+            "ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ"
+        ],
+        "sector": "小売業"
+    },
+    "3623": {
+        "search_keywords": [
+            "Billing System",
+            "Billing System Corporation",
+            "ビリングシステム"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3626": {
+        "search_keywords": [
+            "TIS",
+            "TIS Inc.",
+            "ＴＩＳ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3635": {
+        "search_keywords": [
+            "KOEI TECMO HOLDINGS CO.,LTD.",
+            "コーエーテクモホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3653": {
+        "search_keywords": [
+            "Morpho,Inc.",
+            "モルフォ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3659": {
+        "search_keywords": [
+            "NEXON Co.,Ltd.",
+            "ネクソン"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3692": {
+        "search_keywords": [
+            "FFRI Security,Inc.",
+            "ＦＦＲＩセキュリティ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3697": {
+        "search_keywords": [
+            "SHIFT",
+            "SHIFT Inc.",
+            "ＳＨＩＦＴ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3723": {
+        "search_keywords": [
+            "NIHON FALCOM CORPORATION",
+            "日本ファルコム"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3765": {
+        "search_keywords": [
+            "GungHo Online Entertainment,Inc.",
+            "ガンホー・オンライン・エンターテイメント"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3769": {
+        "search_keywords": [
+            "GMO Payment Gateway,Inc.",
+            "ＧＭＯペイメントゲートウェイ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3773": {
+        "search_keywords": [
+            "Advanced Media,Inc.",
+            "アドバンスト・メディア"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3774": {
+        "search_keywords": [
+            "Internet Initiative Japan",
+            "Internet Initiative Japan Inc.",
+            "インターネットイニシアティブ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3777": {
+        "search_keywords": [
+            "Environment Friendly Holdings Corp.",
+            "環境フレンドリーホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3793": {
+        "search_keywords": [
+            "Drecom Co.,Ltd.",
+            "ドリコム"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3861": {
+        "search_keywords": [
+            "Oji Holdings",
+            "Oji Holdings Corporation",
+            "王子ホールディングス",
+            "王子ＨＤ"
+        ],
+        "sector": "パルプ・紙"
+    },
+    "3900": {
+        "search_keywords": [
+            "CrowdWorks",
+            "CrowdWorks Inc.",
+            "クラウドワークス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3904": {
+        "search_keywords": [
+            "KAYAC",
+            "KAYAC Inc.",
+            "カヤック"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3905": {
+        "search_keywords": [
+            "Datasection",
+            "Datasection Inc.",
+            "データセクション"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3911": {
+        "search_keywords": [
+            "Aiming",
+            "Aiming Inc.",
+            "Ａｉｍｉｎｇ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3914": {
+        "search_keywords": [
+            "JIG-SAW INC.",
+            "ＪＩＧ−ＳＡＷ",
+            "ＪＩＧ－ＳＡＷ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3923": {
+        "search_keywords": [
+            "RAKUS Co.,Ltd.",
+            "ラクス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3979": {
+        "search_keywords": [
+            "ULURU.CO.,LTD.",
+            "うるる"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3989": {
+        "search_keywords": [
+            "SHARINGTECHNOLOGY.INC",
+            "シェアリングテクノロジー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "3991": {
+        "search_keywords": [
+            "Wantedly,Inc",
+            "ウォンテッドリー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4004": {
+        "search_keywords": [
+            "Resonac Holdings",
+            "Resonac Holdings Corporation",
+            "レゾナック",
+            "レゾナック・ホールディングス"
+        ],
+        "sector": "化学"
+    },
+    "4005": {
+        "search_keywords": [
+            "SUMITOMO CHEMICAL COMPANY,LIMITED",
+            "住友化",
+            "住友化学"
+        ],
+        "sector": "化学"
+    },
+    "4011": {
+        "search_keywords": [
+            "Headwaters Co.,Ltd",
+            "ヘッドウォータース"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4013": {
+        "search_keywords": [
+            "Kinjiro Co.,Ltd.",
+            "勤次郎"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4015": {
+        "search_keywords": [
+            "Paycloud Holdings",
+            "Paycloud Holdings Inc.",
+            "ペイクラウドホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4021": {
+        "search_keywords": [
+            "Nissan Chemical",
+            "Nissan Chemical Corporation",
+            "日産化",
+            "日産化学"
+        ],
+        "sector": "化学"
+    },
+    "4042": {
+        "search_keywords": [
+            "TOSOH CORPORATION",
+            "東ソー"
+        ],
+        "sector": "化学"
+    },
+    "4043": {
+        "search_keywords": [
+            "Tokuyama",
+            "Tokuyama Corporation",
+            "トクヤマ"
+        ],
+        "sector": "化学"
+    },
+    "4051": {
+        "search_keywords": [
+            "GMO Financial Gate,Inc.",
+            "ＧＭＯフィナンシャルゲート"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4054": {
+        "search_keywords": [
+            "Japan PropTech Co.,Ltd.",
+            "日本情報クリエイト"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4055": {
+        "search_keywords": [
+            "T&S Group",
+            "T&S Group Inc.",
+            "ティアンドエスグループ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4056": {
+        "search_keywords": [
+            "Neural Group",
+            "Neural Group Inc.",
+            "ニューラルグループ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4058": {
+        "search_keywords": [
+            "Toyokumo,Inc.",
+            "トヨクモ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4061": {
+        "search_keywords": [
+            "Denka Company Limited",
+            "デンカ"
+        ],
+        "sector": "化学"
+    },
+    "4062": {
+        "search_keywords": [
+            "IBIDEN CO.,LTD.",
+            "イビデン"
+        ],
+        "sector": "電気機器"
+    },
+    "4063": {
+        "search_keywords": [
+            "Shin-Etsu Chemical Co.,Ltd.",
+            "信越化",
+            "信越化学工業"
+        ],
+        "sector": "化学"
+    },
+    "4074": {
+        "search_keywords": [
+            "LaKeel,Inc.",
+            "ラキール"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4088": {
+        "search_keywords": [
+            "AIR WATER INC.",
+            "エア・ウォーター"
+        ],
+        "sector": "化学"
+    },
+    "4091": {
+        "search_keywords": [
+            "NIPPON SANSO HOLDINGS CORPORATION",
+            "日本酸素ホールディングス"
+        ],
+        "sector": "化学"
+    },
+    "4151": {
+        "search_keywords": [
+            "Kyowa Kirin Co.,Ltd.",
+            "協和キリン"
+        ],
+        "sector": "医薬品"
+    },
+    "4165": {
+        "search_keywords": [
+            "PLAID,Inc.",
+            "プレイド"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4168": {
+        "search_keywords": [
+            "Yappli,Inc.",
+            "ヤプリ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4169": {
+        "search_keywords": [
+            "ENECHANGE",
+            "ENECHANGE Ltd.",
+            "ＥＮＥＣＨＡＮＧＥ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4175": {
+        "search_keywords": [
+            "coly",
+            "coly Inc.",
+            "ｃｏｌｙ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4176": {
+        "search_keywords": [
+            "coconala",
+            "coconala Inc.",
+            "ココナラ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4182": {
+        "search_keywords": [
+            "Mitsubishi Gas Chemical Company,Inc.",
+            "三菱瓦斯化学"
+        ],
+        "sector": "化学"
+    },
+    "4183": {
+        "search_keywords": [
+            "Mitsui Chemicals,Inc.",
+            "三井化学"
+        ],
+        "sector": "化学"
+    },
+    "4186": {
+        "search_keywords": [
+            "TOKYO OHKA KOGYO CO.,LTD.",
+            "東京応化工業"
+        ],
+        "sector": "化学"
+    },
+    "4188": {
+        "search_keywords": [
+            "Mitsubishi Chemical Group",
+            "Mitsubishi Chemical Group Corporation",
+            "三菱ケミカルグループ",
+            "三菱ケミＧ"
+        ],
+        "sector": "化学"
+    },
+    "4192": {
+        "search_keywords": [
+            "SpiderPlus &",
+            "SpiderPlus & Co.",
+            "スパイダープラス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4194": {
+        "search_keywords": [
+            "Visional,Inc.",
+            "ビジョナル"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4202": {
+        "search_keywords": [
+            "Daicel",
+            "Daicel Corporation",
+            "ダイセル"
+        ],
+        "sector": "化学"
+    },
+    "4203": {
+        "search_keywords": [
+            "Sumitomo Bakelite Company,Limited",
+            "住友ベークライト"
+        ],
+        "sector": "化学"
+    },
+    "4204": {
+        "search_keywords": [
+            "Sekisui Chemical Co.,Ltd.",
+            "積水化学工業"
+        ],
+        "sector": "化学"
+    },
+    "4208": {
+        "search_keywords": [
+            "UBE",
+            "UBE Corporation",
+            "ＵＢＥ"
+        ],
+        "sector": "化学"
+    },
+    "4258": {
+        "search_keywords": [
+            "AMIYA",
+            "AMIYA Corporation",
+            "網屋"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4259": {
+        "search_keywords": [
+            "ExaWizards",
+            "ExaWizards Inc.",
+            "エクサウィザーズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4263": {
+        "search_keywords": [
+            "SUSMED,Inc.",
+            "サスメド"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4264": {
+        "search_keywords": [
+            "SECURE,INC.",
+            "セキュア"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4270": {
+        "search_keywords": [
+            "BeeX",
+            "BeeX Inc.",
+            "ＢｅｅＸ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4307": {
+        "search_keywords": [
+            "Nomura Research Institute,Ltd.",
+            "野村総合研究所",
+            "野村総研"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4308": {
+        "search_keywords": [
+            "J-Stream",
+            "J-Stream Inc.",
+            "Ｊストリーム"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4324": {
+        "search_keywords": [
+            "DENTSU GROUP INC.",
+            "電通グループ"
+        ],
+        "sector": "サービス業"
+    },
+    "4371": {
+        "search_keywords": [
+            "Core Concept Technologies",
+            "Core Concept Technologies Inc.",
+            "コアコンセプト・テクノロジー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4374": {
+        "search_keywords": [
+            "ROBOT PAYMENT INC.",
+            "ＲＯＢＯＴ　ＰＡＹＭＥＮＴ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4375": {
+        "search_keywords": [
+            "Safie",
+            "Safie Inc.",
+            "セーフィー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4376": {
+        "search_keywords": [
+            "Kufu Company Holdings",
+            "Kufu Company Holdings Inc.",
+            "くふうカンパニー",
+            "くふうカンパニーホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4377": {
+        "search_keywords": [
+            "ONE CAREER",
+            "ONE CAREER Inc.",
+            "ワンキャリア"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4385": {
+        "search_keywords": [
+            "Mercari,Inc.",
+            "メルカリ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4389": {
+        "search_keywords": [
+            "Property Data Bank,Inc.",
+            "プロパティデータバンク"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4393": {
+        "search_keywords": [
+            "Bank of Innovation,Inc.",
+            "バンク・オブ・イノベーション"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4401": {
+        "search_keywords": [
+            "ADEKA CORPORATION",
+            "ＡＤＥＫＡ"
+        ],
+        "sector": "化学"
+    },
+    "4403": {
+        "search_keywords": [
+            "NOF CORPORATION",
+            "日油"
+        ],
+        "sector": "化学"
+    },
+    "4413": {
+        "search_keywords": [
+            "baudroie,inc.",
+            "ボードルア"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4414": {
+        "search_keywords": [
+            "FLECT Co.,Ltd.",
+            "フレクト"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4417": {
+        "search_keywords": [
+            "Global Security Experts",
+            "Global Security Experts Inc.",
+            "グローバルセキュリティエキスパート"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4418": {
+        "search_keywords": [
+            "Japan Data Science Consortium Co.Ltd.",
+            "ＪＤＳＣ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4419": {
+        "search_keywords": [
+            "Finatext Holdings",
+            "Finatext Holdings Ltd.",
+            "Ｆｉｎａｔｅｘｔホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4425": {
+        "search_keywords": [
+            "Kudan",
+            "Kudan Inc.",
+            "Ｋｕｄａｎ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4431": {
+        "search_keywords": [
+            "Smaregi,Inc.",
+            "スマレジ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4436": {
+        "search_keywords": [
+            "MINKABU THE INFONOID,Inc.",
+            "ミンカブ・ジ・インフォノイド"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4442": {
+        "search_keywords": [
+            "VALTES HOLDINGS CO.,LTD.",
+            "バルテス・ホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4448": {
+        "search_keywords": [
+            "kubell Co.,Ltd.",
+            "ｋｕｂｅｌｌ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4452": {
+        "search_keywords": [
+            "Kao",
+            "Kao Corporation",
+            "花王"
+        ],
+        "sector": "化学"
+    },
+    "4475": {
+        "search_keywords": [
+            "HENNGE K.K.",
+            "ＨＥＮＮＧＥ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4477": {
+        "search_keywords": [
+            "BASE,Inc.",
+            "ＢＡＳＥ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4478": {
+        "search_keywords": [
+            "freee K.K.",
+            "フリー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4482": {
+        "search_keywords": [
+            "WILLs",
+            "WILLs Inc.",
+            "ウィルズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4488": {
+        "search_keywords": [
+            "AI inside",
+            "AI inside Inc.",
+            "ＡＩ　ｉｎｓｉｄｅ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4490": {
+        "search_keywords": [
+            "VisasQ",
+            "VisasQ Inc.",
+            "ビザスク"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4493": {
+        "search_keywords": [
+            "Cyber Security Cloud,Inc.",
+            "サイバーセキュリティクラウド"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4495": {
+        "search_keywords": [
+            "i Cubed Systems,Inc.",
+            "アイキューブドシステムズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4498": {
+        "search_keywords": [
+            "Cybertrust Japan Co.,Ltd.",
+            "サイバートラスト"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4502": {
+        "search_keywords": [
+            "Takeda Pharmaceutical Company Limited",
+            "武田",
+            "武田薬品工業"
+        ],
+        "sector": "医薬品"
+    },
+    "4503": {
+        "search_keywords": [
+            "Astellas Pharma",
+            "Astellas Pharma Inc.",
+            "アステラス",
+            "アステラス製薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4506": {
+        "search_keywords": [
+            "Sumitomo Pharma Co.,Ltd.",
+            "住友ファーマ"
+        ],
+        "sector": "医薬品"
+    },
+    "4507": {
+        "search_keywords": [
+            "Shionogi & Co.,Ltd.",
+            "塩野義",
+            "塩野義製薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4516": {
+        "search_keywords": [
+            "Nippon Shinyaku Co.,Ltd.",
+            "日本新薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4519": {
+        "search_keywords": [
+            "CHUGAI PHARMACEUTICAL CO.,LTD.",
+            "中外薬",
+            "中外製薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4523": {
+        "search_keywords": [
+            "Eisai Co.,Ltd.",
+            "エーザイ"
+        ],
+        "sector": "医薬品"
+    },
+    "4527": {
+        "search_keywords": [
+            "ROHTO PHARMACEUTICAL CO.,LTD.",
+            "ロート製薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4528": {
+        "search_keywords": [
+            "ONO PHARMACEUTICAL CO.,LTD.",
+            "小野薬品工業"
+        ],
+        "sector": "医薬品"
+    },
+    "4543": {
+        "search_keywords": [
+            "TERUMO CORPORATION",
+            "テルモ"
+        ],
+        "sector": "精密機器"
+    },
+    "4563": {
+        "search_keywords": [
+            "AnGes,Inc.",
+            "アンジェス"
+        ],
+        "sector": "医薬品"
+    },
+    "4564": {
+        "search_keywords": [
+            "OncoTherapy Science,Inc.",
+            "オンコセラピー・サイエンス"
+        ],
+        "sector": "医薬品"
+    },
+    "4568": {
+        "search_keywords": [
+            "DAIICHI SANKYO COMPANY,LIMITED",
+            "第一三共"
+        ],
+        "sector": "医薬品"
+    },
+    "4571": {
+        "search_keywords": [
+            "NANO MRNA Co.,Ltd.",
+            "ＮＡＮＯ　ＭＲＮＡ"
+        ],
+        "sector": "医薬品"
+    },
+    "4572": {
+        "search_keywords": [
+            "Carna Biosciences,Inc.",
+            "カルナバイオサイエンス"
+        ],
+        "sector": "医薬品"
+    },
+    "4575": {
+        "search_keywords": [
+            "CanBas Co.,Ltd.",
+            "キャンバス"
+        ],
+        "sector": "医薬品"
+    },
+    "4578": {
+        "search_keywords": [
+            "Otsuka Holdings Co.,Ltd.",
+            "大塚ホールディングス",
+            "大塚ＨＤ"
+        ],
+        "sector": "医薬品"
+    },
+    "4579": {
+        "search_keywords": [
+            "RaQualia Pharma",
+            "RaQualia Pharma Inc.",
+            "ラクオリア創薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4582": {
+        "search_keywords": [
+            "SymBio Pharmaceuticals Limited",
+            "シンバイオ製薬"
+        ],
+        "sector": "医薬品"
+    },
+    "4587": {
+        "search_keywords": [
+            "PeptiDream",
+            "PeptiDream Inc.",
+            "ペプチドリーム"
+        ],
+        "sector": "医薬品"
+    },
+    "4588": {
+        "search_keywords": [
+            "Oncolys BioPharma",
+            "Oncolys BioPharma Inc.",
+            "オンコリスバイオファーマ"
+        ],
+        "sector": "医薬品"
+    },
+    "4592": {
+        "search_keywords": [
+            "SanBio Company Limited",
+            "サンバイオ"
+        ],
+        "sector": "医薬品"
+    },
+    "4593": {
+        "search_keywords": [
+            "HEALIOS K.K.",
+            "ヘリオス"
+        ],
+        "sector": "医薬品"
+    },
+    "4597": {
+        "search_keywords": [
+            "Solasia Pharma K.K.",
+            "ソレイジア・ファーマ"
+        ],
+        "sector": "医薬品"
+    },
+    "4599": {
+        "search_keywords": [
+            "StemRIM",
+            "StemRIM Inc.",
+            "ステムリム"
+        ],
+        "sector": "医薬品"
+    },
+    "4612": {
+        "search_keywords": [
+            "NIPPON PAINT HOLDINGS CO.,LTD.",
+            "日本ペイントホールディングス"
+        ],
+        "sector": "化学"
+    },
+    "4613": {
+        "search_keywords": [
+            "KANSAI PAINT CO.,LTD.",
+            "関西ペイント"
+        ],
+        "sector": "化学"
+    },
+    "4626": {
+        "search_keywords": [
+            "TAIYO HOLDINGS CO.,LTD.",
+            "太陽ホールディングス"
+        ],
+        "sector": "化学"
+    },
+    "4661": {
+        "search_keywords": [
+            "ORIENTAL LAND CO.,LTD.",
+            "オリエンタルランド",
+            "ＯＬＣ"
+        ],
+        "sector": "サービス業"
+    },
+    "4666": {
+        "search_keywords": [
+            "PARK24 Co.,Ltd.",
+            "パーク２４"
+        ],
+        "sector": "不動産業"
+    },
+    "4680": {
+        "search_keywords": [
+            "ROUND ONE",
+            "ROUND ONE Corporation",
+            "ラウンドワン"
+        ],
+        "sector": "サービス業"
+    },
+    "4681": {
+        "search_keywords": [
+            "RESORTTRUST,INC.",
+            "リゾートトラスト"
+        ],
+        "sector": "サービス業"
+    },
+    "4684": {
+        "search_keywords": [
+            "OBIC Co.,Ltd.",
+            "オービック"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4686": {
+        "search_keywords": [
+            "JUSTSYSTEMS CORPORATION",
+            "ジャストシステム"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4689": {
+        "search_keywords": [
+            "LY",
+            "LY Corporation",
+            "ラインヤフー",
+            "ＬＩＮＥヤフー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4704": {
+        "search_keywords": [
+            "Trend Micro Incorporated",
+            "トレンド",
+            "トレンドマイクロ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4716": {
+        "search_keywords": [
+            "ORACLE CORPORATION JAPAN",
+            "日本オラクル"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4722": {
+        "search_keywords": [
+            "Future",
+            "Future Corporation",
+            "フューチャー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4732": {
+        "search_keywords": [
+            "USS Co.,Ltd.",
+            "ユー・エス・エス"
+        ],
+        "sector": "サービス業"
+    },
+    "4751": {
+        "search_keywords": [
+            "CyberAgent,Inc.",
+            "サイバー",
+            "サイバーエージェント"
+        ],
+        "sector": "サービス業"
+    },
+    "4755": {
+        "search_keywords": [
+            "Rakuten Group,Inc.",
+            "楽天グループ"
+        ],
+        "sector": "サービス業"
+    },
+    "4768": {
+        "search_keywords": [
+            "OTSUKA CORPORATION",
+            "大塚商会"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4772": {
+        "search_keywords": [
+            "SM ENTERTAINMENT JAPAN Co.,Ltd.",
+            "ストリームメディアコーポレーション",
+            "ＳＭ　ＥＮＴＥＲＴＡＩＮＭＥＮＴ　ＪＡＰＡＮ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4811": {
+        "search_keywords": [
+            "DreamArts",
+            "DreamArts Corporation",
+            "ドリーム・アーツ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4812": {
+        "search_keywords": [
+            "DENTSU SOKEN INC.",
+            "電通総研"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4816": {
+        "search_keywords": [
+            "TOEI ANIMATION CO.,LTD.",
+            "東映アニメーション"
+        ],
+        "sector": "情報･通信業"
+    },
+    "4882": {
+        "search_keywords": [
+            "Perseus Proteomics",
+            "Perseus Proteomics Inc.",
+            "ペルセウスプロテオミクス"
+        ],
+        "sector": "医薬品"
+    },
+    "4888": {
+        "search_keywords": [
+            "STELLA PHARMA CORPORATION",
+            "ステラファーマ"
+        ],
+        "sector": "医薬品"
+    },
+    "4890": {
+        "search_keywords": [
+            "Tsubota Laboratory Incorporated",
+            "坪田ラボ"
+        ],
+        "sector": "医薬品"
+    },
+    "4891": {
+        "search_keywords": [
+            "TMS Co.,Ltd.",
+            "ティムス"
+        ],
+        "sector": "医薬品"
+    },
+    "4893": {
+        "search_keywords": [
+            "Noile-Immune Biotech",
+            "Noile-Immune Biotech Inc.",
+            "ノイルイミューン・バイオテック"
+        ],
+        "sector": "医薬品"
+    },
+    "4894": {
+        "search_keywords": [
+            "Cuorips",
+            "Cuorips Inc.",
+            "クオリプス"
+        ],
+        "sector": "医薬品"
+    },
+    "4896": {
+        "search_keywords": [
+            "K Pharma,Inc.",
+            "ケイファーマ"
+        ],
+        "sector": "医薬品"
+    },
+    "4901": {
+        "search_keywords": [
+            "FUJIFILM Holdings",
+            "FUJIFILM Holdings Corporation",
+            "富士フイルム",
+            "富士フイルムホールディングス"
+        ],
+        "sector": "化学"
+    },
+    "4902": {
+        "search_keywords": [
+            "KONICA MINOLTA,INC.",
+            "コニカミノル",
+            "コニカミノルタ"
+        ],
+        "sector": "電気機器"
+    },
+    "4911": {
+        "search_keywords": [
+            "Shiseido Company,Limited",
+            "資生堂"
+        ],
+        "sector": "化学"
+    },
+    "4912": {
+        "search_keywords": [
+            "Lion",
+            "Lion Corporation",
+            "ライオン"
+        ],
+        "sector": "化学"
+    },
+    "4967": {
+        "search_keywords": [
+            "KOBAYASHI PHARMACEUTICAL CO.,LTD.",
+            "小林製薬"
+        ],
+        "sector": "化学"
+    },
+    "4978": {
+        "search_keywords": [
+            "ReproCELL Incorporated",
+            "リプロセル"
+        ],
+        "sector": "化学"
+    },
+    "4980": {
+        "search_keywords": [
+            "Dexerials",
+            "Dexerials Corporation",
+            "デクセリアルズ"
+        ],
+        "sector": "化学"
+    },
+    "5019": {
+        "search_keywords": [
+            "Idemitsu Kosan Co.,Ltd.",
+            "出光興産"
+        ],
+        "sector": "石油･石炭製品"
+    },
+    "5020": {
+        "search_keywords": [
+            "ENEOS Holdings,Inc.",
+            "ＥＮＥＯＳ",
+            "ＥＮＥＯＳホールディングス"
+        ],
+        "sector": "石油･石炭製品"
+    },
+    "5021": {
+        "search_keywords": [
+            "COSMO ENERGY HOLDINGS COMPANY,LIMITED",
+            "コスモエネルギーホールディングス"
+        ],
+        "sector": "石油･石炭製品"
+    },
+    "5026": {
+        "search_keywords": [
+            "TRIPLEIZE CO.,LTD.",
+            "トリプルアイズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5027": {
+        "search_keywords": [
+            "AnyMind Group",
+            "AnyMind Group Inc.",
+            "ＡｎｙＭｉｎｄ　Ｇｒｏｕｐ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5032": {
+        "search_keywords": [
+            "ANYCOLOR",
+            "ANYCOLOR Inc.",
+            "ＡＮＹＣＯＬＯＲ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5034": {
+        "search_keywords": [
+            "unerry,Inc.",
+            "ｕｎｅｒｒｙ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5038": {
+        "search_keywords": [
+            "eWeLL Co.,Ltd.",
+            "ｅＷｅＬＬ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5076": {
+        "search_keywords": [
+            "INFRONEER Holdings",
+            "INFRONEER Holdings Inc.",
+            "インフロニア・ホールディングス"
+        ],
+        "sector": "建設業"
+    },
+    "5101": {
+        "search_keywords": [
+            "The Yokohama Rubber Company,Limited",
+            "横浜ゴム",
+            "浜ゴム"
+        ],
+        "sector": "ゴム製品"
+    },
+    "5105": {
+        "search_keywords": [
+            "Toyo Tire",
+            "Toyo Tire Corporation",
+            "ＴＯＹＯ　ＴＩＲＥ"
+        ],
+        "sector": "ゴム製品"
+    },
+    "5108": {
+        "search_keywords": [
+            "BRIDGESTONE CORPORATION",
+            "ブリヂストン"
+        ],
+        "sector": "ゴム製品"
+    },
+    "5129": {
+        "search_keywords": [
+            "FIXER",
+            "FIXER Inc.",
+            "ＦＩＸＥＲ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5132": {
+        "search_keywords": [
+            "pluszero,Inc.",
+            "ｐｌｕｓｚｅｒｏ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5136": {
+        "search_keywords": [
+            "tripla Co.,Ltd.",
+            "ｔｒｉｐｌａ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5137": {
+        "search_keywords": [
+            "SmartDrive inc.",
+            "スマートドライブ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5139": {
+        "search_keywords": [
+            "OpenWork",
+            "OpenWork Inc.",
+            "オープンワーク"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5201": {
+        "search_keywords": [
+            "AGC",
+            "AGC Inc.",
+            "ＡＧＣ"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5214": {
+        "search_keywords": [
+            "Nippon Electric Glass Co.,Ltd.",
+            "日本電気硝子",
+            "日電硝"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5233": {
+        "search_keywords": [
+            "TAIHEIYO CEMENT CORPORATION",
+            "太平洋セメ",
+            "太平洋セメント"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5243": {
+        "search_keywords": [
+            "note inc.",
+            "ｎｏｔｅ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5244": {
+        "search_keywords": [
+            "jig.jp co.,ltd.",
+            "ｊｉｇ．ｊｐ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5246": {
+        "search_keywords": [
+            "ELEMENTS,Inc.",
+            "ＥＬＥＭＥＮＴＳ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5248": {
+        "search_keywords": [
+            "TECHNOLOGIES,Inc.",
+            "テクノロジーズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5253": {
+        "search_keywords": [
+            "COVER",
+            "COVER Corporation",
+            "カバー"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5254": {
+        "search_keywords": [
+            "Arent",
+            "Arent Inc.",
+            "Ａｒｅｎｔ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5258": {
+        "search_keywords": [
+            "Transaction Media Networks",
+            "Transaction Media Networks Inc.",
+            "トランザクション・メディア・ネットワークス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5301": {
+        "search_keywords": [
+            "TOKAI CARBON CO.,LTD.",
+            "東海カーボン"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5332": {
+        "search_keywords": [
+            "TOTO LTD.",
+            "ＴＯＴＯ"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5333": {
+        "search_keywords": [
+            "NGK INSULATORS,LTD.",
+            "ガイシ",
+            "日本碍子"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5334": {
+        "search_keywords": [
+            "Niterra Co.,Ltd.",
+            "日本特殊陶業"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5344": {
+        "search_keywords": [
+            "MARUWA CO.,LTD.",
+            "ＭＡＲＵＷＡ"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5393": {
+        "search_keywords": [
+            "NICHIAS CORPORATION",
+            "ニチアス"
+        ],
+        "sector": "ガラス･土石製品"
+    },
+    "5401": {
+        "search_keywords": [
+            "NIPPON STEEL CORPORATION",
+            "日本製鉄"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5406": {
+        "search_keywords": [
+            "Kobe Steel,Ltd.",
+            "神戸製鋼所",
+            "神戸鋼"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5411": {
+        "search_keywords": [
+            "JFE Holdings,Inc.",
+            "ＪＦＥ",
+            "ＪＦＥホールディングス"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5423": {
+        "search_keywords": [
+            "TOKYO STEEL MANUFACTURING CO.,LTD.",
+            "東京製鐵"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5444": {
+        "search_keywords": [
+            "YAMATO KOGYO CO.,LTD.",
+            "大和工業"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5471": {
+        "search_keywords": [
+            "Daido Steel Co.,Ltd.",
+            "大同特殊鋼"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5480": {
+        "search_keywords": [
+            "Nippon Yakin kogyo Co.,Ltd.",
+            "日本冶金工業"
+        ],
+        "sector": "鉄鋼"
+    },
+    "5570": {
+        "search_keywords": [
+            "JENOBA CO.,LTD.",
+            "ジェノバ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5572": {
+        "search_keywords": [
+            "Ridge-i",
+            "Ridge-i Inc.",
+            "Ｒｉｄｇｅ−ｉ",
+            "Ｒｉｄｇｅ－ｉ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5574": {
+        "search_keywords": [
+            "ABEJA,Inc.",
+            "ＡＢＥＪＡ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5582": {
+        "search_keywords": [
+            "GRID",
+            "GRID Inc.",
+            "グリッド"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5586": {
+        "search_keywords": [
+            "Laboro.AI",
+            "Laboro.AI Inc.",
+            "Ｌａｂｏｒｏ．ＡＩ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5588": {
+        "search_keywords": [
+            "Fast Accounting Co.,Ltd.",
+            "ファーストアカウンティング"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5590": {
+        "search_keywords": [
+            "NETSTARS Co.,Ltd.",
+            "ネットスターズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5591": {
+        "search_keywords": [
+            "AVILEN",
+            "AVILEN Inc.",
+            "ＡＶＩＬＥＮ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5592": {
+        "search_keywords": [
+            "Kusurinomadoguchi,Inc.",
+            "くすりの窓口"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5595": {
+        "search_keywords": [
+            "Institute for Q-shu Pioneers of Space,Inc.",
+            "ＱＰＳ研究所"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5621": {
+        "search_keywords": [
+            "Human Technologies,Inc.",
+            "ヒューマンテクノロジーズ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "5631": {
+        "search_keywords": [
+            "The Japan Steel Works,Ltd.",
+            "日本製鋼所",
+            "日製鋼"
+        ],
+        "sector": "機械"
+    },
+    "5706": {
+        "search_keywords": [
+            "Mitsui Mining and Smelting Company,Limited",
+            "三井金",
+            "三井金属鉱業"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5711": {
+        "search_keywords": [
+            "Mitsubishi Materials",
+            "Mitsubishi Materials Corporation",
+            "三菱マ",
+            "三菱マテリアル"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5713": {
+        "search_keywords": [
+            "Sumitomo Metal Mining Co.,Ltd.",
+            "住友金属鉱山",
+            "住友鉱"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5714": {
+        "search_keywords": [
+            "DOWA HOLDINGS CO.,LTD.",
+            "ＤＯＷＡ",
+            "ＤＯＷＡホールディングス"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5801": {
+        "search_keywords": [
+            "Furukawa Electric Co.,Ltd.",
+            "古河電",
+            "古河電気工業"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5802": {
+        "search_keywords": [
+            "Sumitomo Electric Industries,Ltd.",
+            "住友電",
+            "住友電気工業"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5803": {
+        "search_keywords": [
+            "Fujikura",
+            "Fujikura Ltd.",
+            "フジクラ"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5805": {
+        "search_keywords": [
+            "SWCC",
+            "SWCC Corporation",
+            "ＳＷＣＣ"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5831": {
+        "search_keywords": [
+            "Shizuoka Financial Group,Inc.",
+            "しずおかフィナンシャルグループ",
+            "しずおかＦＧ"
+        ],
+        "sector": "銀行業"
+    },
+    "5834": {
+        "search_keywords": [
+            "SBI Leasing Services Co.,Ltd.",
+            "ＳＢＩリーシングサービス"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "5842": {
+        "search_keywords": [
+            "Integral",
+            "Integral Corporation",
+            "インテグラル"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "5857": {
+        "search_keywords": [
+            "ARE Holdings,Inc.",
+            "ＡＲＥホールディングス"
+        ],
+        "sector": "非鉄金属"
+    },
+    "5888": {
+        "search_keywords": [
+            "DAIWA CYCLE CO.,LTD.",
+            "ＤＡＩＷＡ　ＣＹＣＬＥ"
+        ],
+        "sector": "小売業"
+    },
+    "5892": {
+        "search_keywords": [
+            "yutori,Inc.",
+            "ｙｕｔｏｒｉ"
+        ],
+        "sector": "小売業"
+    },
+    "5929": {
+        "search_keywords": [
+            "Sanwa Holdings",
+            "Sanwa Holdings Corporation",
+            "三和ホールディングス"
+        ],
+        "sector": "金属製品"
+    },
+    "5947": {
+        "search_keywords": [
+            "RINNAI CORPORATION",
+            "リンナイ"
+        ],
+        "sector": "金属製品"
+    },
+    "5991": {
+        "search_keywords": [
+            "NHK SPRING CO.,LTD.",
+            "日本発條"
+        ],
+        "sector": "金属製品"
+    },
+    "6005": {
+        "search_keywords": [
+            "MIURA CO.,LTD.",
+            "三浦工業"
+        ],
+        "sector": "機械"
+    },
+    "6026": {
+        "search_keywords": [
+            "GMO TECH,Inc.",
+            "ＧＭＯ　ＴＥＣＨ"
+        ],
+        "sector": "サービス業"
+    },
+    "6027": {
+        "search_keywords": [
+            "Bengo4.com,Inc.",
+            "弁護士ドットコム"
+        ],
+        "sector": "サービス業"
+    },
+    "6028": {
+        "search_keywords": [
+            "TechnoPro Holdings,Inc.",
+            "テクノプロ・ホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "6030": {
+        "search_keywords": [
+            "Adventure,Inc.",
+            "アドベンチャー"
+        ],
+        "sector": "サービス業"
+    },
+    "6031": {
+        "search_keywords": [
+            "ZETA INC.",
+            "ＺＥＴＡ"
+        ],
+        "sector": "サービス業"
+    },
+    "6040": {
+        "search_keywords": [
+            "Nippon Ski Resort Development Co.,Ltd.",
+            "日本スキー場開発"
+        ],
+        "sector": "サービス業"
+    },
+    "6069": {
+        "search_keywords": [
+            "Trenders,Inc.",
+            "トレンダーズ"
+        ],
+        "sector": "サービス業"
+    },
+    "6086": {
+        "search_keywords": [
+            "Shin Maint Holdings Co.,Ltd.",
+            "シンメンテホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "6094": {
+        "search_keywords": [
+            "FreakOut Holdings,inc.",
+            "フリークアウト・ホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "6098": {
+        "search_keywords": [
+            "Recruit Holdings Co.,Ltd.",
+            "リクルート",
+            "リクルートホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "6101": {
+        "search_keywords": [
+            "TSUGAMI CORPORATION",
+            "ツガミ"
+        ],
+        "sector": "機械"
+    },
+    "6103": {
+        "search_keywords": [
+            "OKUMA",
+            "OKUMA Corporation",
+            "オークマ"
+        ],
+        "sector": "機械"
+    },
+    "6113": {
+        "search_keywords": [
+            "AMADA CO.,LTD.",
+            "アマダ"
+        ],
+        "sector": "機械"
+    },
+    "6141": {
+        "search_keywords": [
+            "DMG MORI CO.,LTD.",
+            "ＤＭＧ森精機"
+        ],
+        "sector": "機械"
+    },
+    "6146": {
+        "search_keywords": [
+            "DISCO CORPORATION",
+            "ディスコ"
+        ],
+        "sector": "機械"
+    },
+    "6176": {
+        "search_keywords": [
+            "Brangista",
+            "Brangista Inc.",
+            "ブランジスタ"
+        ],
+        "sector": "サービス業"
+    },
+    "6178": {
+        "search_keywords": [
+            "JAPAN POST HOLDINGS Co.,Ltd.",
+            "日本郵政"
+        ],
+        "sector": "サービス業"
+    },
+    "6182": {
+        "search_keywords": [
+            "MetaReal",
+            "MetaReal Corporation",
+            "メタリアル"
+        ],
+        "sector": "サービス業"
+    },
+    "6201": {
+        "search_keywords": [
+            "TOYOTA INDUSTRIES CORPORATION",
+            "豊田自動織機"
+        ],
+        "sector": "輸送用機器"
+    },
+    "6224": {
+        "search_keywords": [
+            "JRC Co.,Ltd.",
+            "ＪＲＣ"
+        ],
+        "sector": "機械"
+    },
+    "6232": {
+        "search_keywords": [
+            "ACSL",
+            "ACSL Ltd.",
+            "ＡＣＳＬ"
+        ],
+        "sector": "機械"
+    },
+    "6254": {
+        "search_keywords": [
+            "Nomura Micro Science Co.,Ltd.",
+            "野村マイクロ・サイエンス"
+        ],
+        "sector": "機械"
+    },
+    "6255": {
+        "search_keywords": [
+            "NPC Incorporated",
+            "エヌ・ピー・シー"
+        ],
+        "sector": "機械"
+    },
+    "6269": {
+        "search_keywords": [
+            "MODEC,INC.",
+            "三井海洋開発"
+        ],
+        "sector": "機械"
+    },
+    "6273": {
+        "search_keywords": [
+            "SMC CORPORATION",
+            "ＳＭＣ"
+        ],
+        "sector": "機械"
+    },
+    "6301": {
+        "search_keywords": [
+            "KOMATSU LTD.",
+            "コマツ",
+            "小松製作所"
+        ],
+        "sector": "機械"
+    },
+    "6302": {
+        "search_keywords": [
+            "SUMITOMO HEAVY INDUSTRIES,LTD.",
+            "住友重",
+            "住友重機械工業"
+        ],
+        "sector": "機械"
+    },
+    "6305": {
+        "search_keywords": [
+            "Hitachi Construction Machinery Co.,Ltd.",
+            "日立建機"
+        ],
+        "sector": "機械"
+    },
+    "6323": {
+        "search_keywords": [
+            "RORZE CORPORATION",
+            "ローツェ"
+        ],
+        "sector": "機械"
+    },
+    "6326": {
+        "search_keywords": [
+            "KUBOTA CORPORATION",
+            "クボタ"
+        ],
+        "sector": "機械"
+    },
+    "6361": {
+        "search_keywords": [
+            "EBARA CORPORATION",
+            "荏原",
+            "荏原製作所"
+        ],
+        "sector": "機械"
+    },
+    "6367": {
+        "search_keywords": [
+            "DAIKIN INDUSTRIES,LTD.",
+            "ダイキン",
+            "ダイキン工業"
+        ],
+        "sector": "機械"
+    },
+    "6368": {
+        "search_keywords": [
+            "ORGANO CORPORATION",
+            "オルガノ"
+        ],
+        "sector": "機械"
+    },
+    "6383": {
+        "search_keywords": [
+            "DAIFUKU CO.,LTD.",
+            "ダイフク"
+        ],
+        "sector": "機械"
+    },
+    "6417": {
+        "search_keywords": [
+            "SANKYO CO.,LTD.",
+            "ＳＡＮＫＹＯ"
+        ],
+        "sector": "機械"
+    },
+    "6432": {
+        "search_keywords": [
+            "TAKEUCHI MFG.CO.,LTD.",
+            "竹内製作所"
+        ],
+        "sector": "機械"
+    },
+    "6436": {
+        "search_keywords": [
+            "Amano",
+            "Amano Corporation",
+            "アマノ"
+        ],
+        "sector": "機械"
+    },
+    "6448": {
+        "search_keywords": [
+            "BROTHER INDUSTRIES,LTD.",
+            "ブラザー工業"
+        ],
+        "sector": "電気機器"
+    },
+    "6460": {
+        "search_keywords": [
+            "SEGA SAMMY HOLDINGS INC.",
+            "セガサミーホールディングス"
+        ],
+        "sector": "機械"
+    },
+    "6465": {
+        "search_keywords": [
+            "HOSHIZAKI CORPORATION",
+            "ホシザキ"
+        ],
+        "sector": "機械"
+    },
+    "6471": {
+        "search_keywords": [
+            "NSK",
+            "NSK Ltd.",
+            "日本精工",
+            "日精工"
+        ],
+        "sector": "機械"
+    },
+    "6472": {
+        "search_keywords": [
+            "NTN CORPORATION",
+            "ＮＴＮ"
+        ],
+        "sector": "機械"
+    },
+    "6473": {
+        "search_keywords": [
+            "JTEKT",
+            "JTEKT Corporation",
+            "ジェイテクト"
+        ],
+        "sector": "機械"
+    },
+    "6479": {
+        "search_keywords": [
+            "MINEBEA MITSUMI",
+            "MINEBEA MITSUMI Inc.",
+            "ミネベア",
+            "ミネベアミツミ"
+        ],
+        "sector": "電気機器"
+    },
+    "6501": {
+        "search_keywords": [
+            "Hitachi,Ltd.",
+            "日立",
+            "日立製作所"
+        ],
+        "sector": "電気機器"
+    },
+    "6503": {
+        "search_keywords": [
+            "Mitsubishi Electric",
+            "Mitsubishi Electric Corporation",
+            "三菱電",
+            "三菱電機"
+        ],
+        "sector": "電気機器"
+    },
+    "6504": {
+        "search_keywords": [
+            "FUJI ELECTRIC CO.,LTD.",
+            "富士電機"
+        ],
+        "sector": "電気機器"
+    },
+    "6506": {
+        "search_keywords": [
+            "YASKAWA Electric",
+            "YASKAWA Electric Corporation",
+            "安川電",
+            "安川電機"
+        ],
+        "sector": "電気機器"
+    },
+    "6521": {
+        "search_keywords": [
+            "OXIDE",
+            "OXIDE Corporation",
+            "オキサイド"
+        ],
+        "sector": "電気機器"
+    },
+    "6526": {
+        "search_keywords": [
+            "Socionext",
+            "Socionext Inc.",
+            "ソシオネクス",
+            "ソシオネクスト"
+        ],
+        "sector": "電気機器"
+    },
+    "6532": {
+        "search_keywords": [
+            "BayCurrent,Inc.",
+            "ベイカレント"
+        ],
+        "sector": "サービス業"
+    },
+    "6544": {
+        "search_keywords": [
+            "JAPAN ELEVATOR SERVICE HOLDINGS CO.,LTD.",
+            "ジャパンエレベーターサービスホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "6557": {
+        "search_keywords": [
+            "AIAI Group",
+            "AIAI Group Corporation",
+            "ＡＩＡＩグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "6561": {
+        "search_keywords": [
+            "HANATOUR JAPAN CO.,LTD.",
+            "ＨＡＮＡＴＯＵＲ　ＪＡＰＡＮ"
+        ],
+        "sector": "サービス業"
+    },
+    "6562": {
+        "search_keywords": [
+            "Geniee,Inc.",
+            "ジーニー"
+        ],
+        "sector": "サービス業"
+    },
+    "6568": {
+        "search_keywords": [
+            "KNC Laboratories Co.,Ltd.",
+            "神戸天然物化学"
+        ],
+        "sector": "サービス業"
+    },
+    "6574": {
+        "search_keywords": [
+            "Convano",
+            "Convano Inc.",
+            "コンヴァノ"
+        ],
+        "sector": "サービス業"
+    },
+    "6586": {
+        "search_keywords": [
+            "Makita",
+            "Makita Corporation",
+            "マキタ"
+        ],
+        "sector": "機械"
+    },
+    "6590": {
+        "search_keywords": [
+            "SHIBAURA MECHATRONICS CORPORATION",
+            "芝浦メカトロニクス"
+        ],
+        "sector": "電気機器"
+    },
+    "6594": {
+        "search_keywords": [
+            "NIDEC CORPORATION",
+            "ニデック"
+        ],
+        "sector": "電気機器"
+    },
+    "6612": {
+        "search_keywords": [
+            "BALMUDA",
+            "BALMUDA Inc.",
+            "バルミューダ"
+        ],
+        "sector": "電気機器"
+    },
+    "6613": {
+        "search_keywords": [
+            "QD Laser,Inc.",
+            "ＱＤレーザ"
+        ],
+        "sector": "電気機器"
+    },
+    "6632": {
+        "search_keywords": [
+            "JVCKENWOOD",
+            "JVCKENWOOD Corporation",
+            "ＪＶＣケンウッド"
+        ],
+        "sector": "電気機器"
+    },
+    "6645": {
+        "search_keywords": [
+            "OMRON",
+            "OMRON Corporation",
+            "オムロン"
+        ],
+        "sector": "電気機器"
+    },
+    "6670": {
+        "search_keywords": [
+            "MCJ Co.,Ltd.",
+            "ＭＣＪ"
+        ],
+        "sector": "電気機器"
+    },
+    "6674": {
+        "search_keywords": [
+            "GS Yuasa",
+            "GS Yuasa Corporation",
+            "ジーエス・ユアサ　コーポレーション",
+            "ＧＳユアサ"
+        ],
+        "sector": "電気機器"
+    },
+    "6701": {
+        "search_keywords": [
+            "NEC",
+            "NEC Corporation",
+            "日本電気",
+            "ＮＥＣ"
+        ],
+        "sector": "電気機器"
+    },
+    "6702": {
+        "search_keywords": [
+            "Fujitsu Limited",
+            "富士通"
+        ],
+        "sector": "電気機器"
+    },
+    "6707": {
+        "search_keywords": [
+            "Sanken Electric Co.,Ltd.",
+            "サンケン電気"
+        ],
+        "sector": "電気機器"
+    },
+    "6723": {
+        "search_keywords": [
+            "Renesas Electronics",
+            "Renesas Electronics Corporation",
+            "ルネサス",
+            "ルネサスエレクトロニクス"
+        ],
+        "sector": "電気機器"
+    },
+    "6724": {
+        "search_keywords": [
+            "SEIKO EPSON CORPORATION",
+            "エプソン",
+            "セイコーエプソン"
+        ],
+        "sector": "電気機器"
+    },
+    "6728": {
+        "search_keywords": [
+            "ULVAC",
+            "ULVAC, Inc.",
+            "アルバック"
+        ],
+        "sector": "電気機器"
+    },
+    "6752": {
+        "search_keywords": [
+            "Panasonic Holdings",
+            "Panasonic Holdings Corporation",
+            "パナソニック　ホールディングス",
+            "パナＨＤ"
+        ],
+        "sector": "電気機器"
+    },
+    "6753": {
+        "search_keywords": [
+            "Sharp",
+            "Sharp Corporation",
+            "シャープ"
+        ],
+        "sector": "電気機器"
+    },
+    "6758": {
+        "search_keywords": [
+            "SONY GROUP CORPORATION",
+            "ソニーグループ",
+            "ソニーＧ"
+        ],
+        "sector": "電気機器"
+    },
+    "6762": {
+        "search_keywords": [
+            "TDK",
+            "TDK Corporation",
+            "ＴＤＫ"
+        ],
+        "sector": "電気機器"
+    },
+    "6770": {
+        "search_keywords": [
+            "ALPS ALPINE CO.,LTD.",
+            "アルプスアル",
+            "アルプスアルパイン"
+        ],
+        "sector": "電気機器"
+    },
+    "6787": {
+        "search_keywords": [
+            "Meiko Electronics Co.,Ltd.",
+            "メイコー"
+        ],
+        "sector": "電気機器"
+    },
+    "6806": {
+        "search_keywords": [
+            "HIROSE ELECTRIC CO.,LTD.",
+            "ヒロセ電機"
+        ],
+        "sector": "電気機器"
+    },
+    "6841": {
+        "search_keywords": [
+            "YOKOGAWA ELECTRIC CORPORATION",
+            "横河電",
+            "横河電機"
+        ],
+        "sector": "電気機器"
+    },
+    "6845": {
+        "search_keywords": [
+            "Azbil",
+            "Azbil Corporation",
+            "アズビル"
+        ],
+        "sector": "電気機器"
+    },
+    "6849": {
+        "search_keywords": [
+            "NIHON KOHDEN CORPORATION",
+            "日本光電工業"
+        ],
+        "sector": "電気機器"
+    },
+    "6856": {
+        "search_keywords": [
+            "HORIBA,Ltd.",
+            "堀場製作所"
+        ],
+        "sector": "電気機器"
+    },
+    "6857": {
+        "search_keywords": [
+            "ADVANTEST CORPORATION",
+            "アドテスト",
+            "アドバンテスト"
+        ],
+        "sector": "電気機器"
+    },
+    "6861": {
+        "search_keywords": [
+            "KEYENCE CORPORATION",
+            "キーエンス"
+        ],
+        "sector": "電気機器"
+    },
+    "6869": {
+        "search_keywords": [
+            "SYSMEX CORPORATION",
+            "シスメックス"
+        ],
+        "sector": "電気機器"
+    },
+    "6902": {
+        "search_keywords": [
+            "DENSO CORPORATION",
+            "デンソー"
+        ],
+        "sector": "輸送用機器"
+    },
+    "6920": {
+        "search_keywords": [
+            "Lasertec",
+            "Lasertec Corporation",
+            "レーザーテク",
+            "レーザーテック"
+        ],
+        "sector": "電気機器"
+    },
+    "6951": {
+        "search_keywords": [
+            "JEOL",
+            "JEOL Ltd.",
+            "日本電子"
+        ],
+        "sector": "電気機器"
+    },
+    "6952": {
+        "search_keywords": [
+            "CASIO COMPUTER CO.,LTD.",
+            "カシオ",
+            "カシオ計算機"
+        ],
+        "sector": "電気機器"
+    },
+    "6954": {
+        "search_keywords": [
+            "FANUC CORPORATION",
+            "ファナック"
+        ],
+        "sector": "電気機器"
+    },
+    "6963": {
+        "search_keywords": [
+            "ROHM COMPANY LIMITED",
+            "ローム"
+        ],
+        "sector": "電気機器"
+    },
+    "6965": {
+        "search_keywords": [
+            "HAMAMATSU PHOTONICS K.K.",
+            "浜松ホトニクス"
+        ],
+        "sector": "電気機器"
+    },
+    "6966": {
+        "search_keywords": [
+            "Mitsui High-tec,Inc.",
+            "三井ハイテック"
+        ],
+        "sector": "電気機器"
+    },
+    "6971": {
+        "search_keywords": [
+            "KYOCERA CORPORATION",
+            "京セラ"
+        ],
+        "sector": "電気機器"
+    },
+    "6976": {
+        "search_keywords": [
+            "TAIYO YUDEN CO.,LTD.",
+            "太陽誘電"
+        ],
+        "sector": "電気機器"
+    },
+    "6981": {
+        "search_keywords": [
+            "Murata Manufacturing Co.,Ltd.",
+            "村田製",
+            "村田製作所"
+        ],
+        "sector": "電気機器"
+    },
+    "6988": {
+        "search_keywords": [
+            "NITTO DENKO CORPORATION",
+            "日東電",
+            "日東電工"
+        ],
+        "sector": "化学"
+    },
+    "7003": {
+        "search_keywords": [
+            "MITSUI E&S Co.,Ltd.",
+            "三井Ｅ＆Ｓ"
+        ],
+        "sector": "機械"
+    },
+    "7004": {
+        "search_keywords": [
+            "Kanadevia",
+            "Kanadevia Corporation",
+            "カナデビア"
+        ],
+        "sector": "機械"
+    },
+    "7011": {
+        "search_keywords": [
+            "Mitsubishi Heavy Industries,Ltd.",
+            "三菱重",
+            "三菱重工業"
+        ],
+        "sector": "機械"
+    },
+    "7012": {
+        "search_keywords": [
+            "Kawasaki Heavy Industries,Ltd.",
+            "川崎重工業",
+            "川重"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7013": {
+        "search_keywords": [
+            "IHI",
+            "IHI Corporation",
+            "ＩＨＩ"
+        ],
+        "sector": "機械"
+    },
+    "7014": {
+        "search_keywords": [
+            "Namura Shipbuilding Co.,Ltd.",
+            "名村造船所"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7047": {
+        "search_keywords": [
+            "PORT INC.",
+            "ポート"
+        ],
+        "sector": "サービス業"
+    },
+    "7048": {
+        "search_keywords": [
+            "VELTRA",
+            "VELTRA Corporation",
+            "ベルトラ"
+        ],
+        "sector": "サービス業"
+    },
+    "7050": {
+        "search_keywords": [
+            "FRONTIER INTERNATIONAL INC.",
+            "フロンティアインターナショナル"
+        ],
+        "sector": "サービス業"
+    },
+    "7061": {
+        "search_keywords": [
+            "Japan Hospice Holdings",
+            "Japan Hospice Holdings Inc.",
+            "日本ホスピスホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "7066": {
+        "search_keywords": [
+            "Peers Co.,Ltd.",
+            "ピアズ"
+        ],
+        "sector": "サービス業"
+    },
+    "7068": {
+        "search_keywords": [
+            "Feedforce Group",
+            "Feedforce Group Inc.",
+            "フィードフォースグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "7079": {
+        "search_keywords": [
+            "WDB coco CO.,LTD.",
+            "ＷＤＢココ"
+        ],
+        "sector": "サービス業"
+    },
+    "7094": {
+        "search_keywords": [
+            "NexTone",
+            "NexTone Inc.",
+            "ＮｅｘＴｏｎｅ"
+        ],
+        "sector": "サービス業"
+    },
+    "7096": {
+        "search_keywords": [
+            "StemCell Institute",
+            "ステムセル研究所"
+        ],
+        "sector": "サービス業"
+    },
+    "7105": {
+        "search_keywords": [
+            "Mitsubishi Logisnext Co.,Ltd.",
+            "三菱ロジスネクスト"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7110": {
+        "search_keywords": [
+            "Kurashicom",
+            "Kurashicom Inc.",
+            "クラシコム"
+        ],
+        "sector": "小売業"
+    },
+    "7119": {
+        "search_keywords": [
+            "halmek holdings Co.,Ltd.",
+            "ハルメクホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "7133": {
+        "search_keywords": [
+            "HYUGA PRIMARY CARE Co.,Ltd.",
+            "ＨＹＵＧＡ　ＰＲＩＭＡＲＹ　ＣＡＲＥ"
+        ],
+        "sector": "小売業"
+    },
+    "7148": {
+        "search_keywords": [
+            "Financial Partners Group Co.,Ltd.",
+            "ＦＰＧ"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "7157": {
+        "search_keywords": [
+            "LIFENET INSURANCE COMPANY",
+            "ライフネット生命保険"
+        ],
+        "sector": "保険業"
+    },
+    "7164": {
+        "search_keywords": [
+            "ZENKOKU HOSHO Co.,Ltd.",
+            "全国保証"
+        ],
+        "sector": "その他金融業"
+    },
+    "7167": {
+        "search_keywords": [
+            "Mebuki Financial Group,Inc.",
+            "めぶきフィナンシャルグループ"
+        ],
+        "sector": "銀行業"
+    },
+    "7182": {
+        "search_keywords": [
+            "JAPAN POST BANK Co.,Ltd.",
+            "ゆうちょ銀行"
+        ],
+        "sector": "銀行業"
+    },
+    "7186": {
+        "search_keywords": [
+            "Concordia Financial Group,Ltd.",
+            "コンコルディ",
+            "コンコルディア・フィナンシャルグループ"
+        ],
+        "sector": "銀行業"
+    },
+    "7201": {
+        "search_keywords": [
+            "NISSAN MOTOR CO.,LTD.",
+            "日産自",
+            "日産自動車"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7202": {
+        "search_keywords": [
+            "ISUZU MOTORS LIMITED",
+            "いすゞ",
+            "いすゞ自動車"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7203": {
+        "search_keywords": [
+            "TOYOTA MOTOR CORPORATION",
+            "トヨタ",
+            "トヨタ自動車"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7205": {
+        "search_keywords": [
+            "HINO MOTORS,LTD.",
+            "日野自",
+            "日野自動車"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7211": {
+        "search_keywords": [
+            "MITSUBISHI MOTORS CORPORATION",
+            "三菱自",
+            "三菱自動車工業"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7259": {
+        "search_keywords": [
+            "AISIN CORPORATION",
+            "アイシン"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7261": {
+        "search_keywords": [
+            "Mazda Motor",
+            "Mazda Motor Corporation",
+            "マツダ"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7267": {
+        "search_keywords": [
+            "HONDA MOTOR CO.,LTD.",
+            "ホンダ",
+            "本田技研工業"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7269": {
+        "search_keywords": [
+            "SUZUKI MOTOR CORPORATION",
+            "スズキ"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7270": {
+        "search_keywords": [
+            "SUBARU CORPORATION",
+            "ＳＵＢＡＲＵ"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7272": {
+        "search_keywords": [
+            "Yamaha Motor Co.,Ltd.",
+            "ヤマハ発",
+            "ヤマハ発動機"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7276": {
+        "search_keywords": [
+            "KOITO MANUFACTURING CO.,LTD.",
+            "小糸製作所"
+        ],
+        "sector": "電気機器"
+    },
+    "7282": {
+        "search_keywords": [
+            "TOYODA GOSEI CO.,LTD.",
+            "豊田合成"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7309": {
+        "search_keywords": [
+            "SHIMANO INC.",
+            "シマノ"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7317": {
+        "search_keywords": [
+            "Matsuya R&D Co.,Ltd",
+            "松屋アールアンドディ"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7318": {
+        "search_keywords": [
+            "SERENDIP HOLDINGS Co.,Ltd.",
+            "セレンディップ・ホールディングス"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7320": {
+        "search_keywords": [
+            "Solvvy",
+            "Solvvy Inc.",
+            "日本リビング保証",
+            "Ｓｏｌｖｖｙ"
+        ],
+        "sector": "その他金融業"
+    },
+    "7326": {
+        "search_keywords": [
+            "SBI Insurance Group Co.,Ltd.",
+            "ＳＢＩインシュアランスグループ"
+        ],
+        "sector": "保険業"
+    },
+    "7343": {
+        "search_keywords": [
+            "Broad-Minded Co.,Ltd.",
+            "ブロードマインド"
+        ],
+        "sector": "保険業"
+    },
+    "7352": {
+        "search_keywords": [
+            "TWOSTONE&Sons",
+            "TWOSTONE&Sons Inc.",
+            "ＴＷＯＳＴＯＮＥ＆Ｓｏｎｓ"
+        ],
+        "sector": "サービス業"
+    },
+    "7373": {
+        "search_keywords": [
+            "Aidma Holdings,Inc.",
+            "アイドマ・ホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "7409": {
+        "search_keywords": [
+            "AeroEdge Co.,Ltd",
+            "ＡｅｒｏＥｄｇｅ"
+        ],
+        "sector": "輸送用機器"
+    },
+    "7419": {
+        "search_keywords": [
+            "Nojima Co.,Ltd.",
+            "ノジマ"
+        ],
+        "sector": "小売業"
+    },
+    "7453": {
+        "search_keywords": [
+            "RYOHIN KEIKAKU CO.,LTD.",
+            "良品計画"
+        ],
+        "sector": "小売業"
+    },
+    "7459": {
+        "search_keywords": [
+            "MEDIPAL HOLDINGS CORPORATION",
+            "メディパルホールディングス"
+        ],
+        "sector": "卸売業"
+    },
+    "7532": {
+        "search_keywords": [
+            "Pan Pacific International Holdings",
+            "Pan Pacific International Holdings Corporation",
+            "パン・パシフィック・インターナショナルホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "7550": {
+        "search_keywords": [
+            "ZENSHO HOLDINGS CO.,LTD.",
+            "ゼンショーホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "7564": {
+        "search_keywords": [
+            "WORKMAN CO.,LTD.",
+            "ワークマン"
+        ],
+        "sector": "小売業"
+    },
+    "7599": {
+        "search_keywords": [
+            "IDOM",
+            "IDOM Inc.",
+            "ＩＤＯＭ"
+        ],
+        "sector": "卸売業"
+    },
+    "7649": {
+        "search_keywords": [
+            "SUGI HOLDINGS Co.,LTD.",
+            "スギホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "7674": {
+        "search_keywords": [
+            "NATTY SWANKY holdings Co.,Ltd.",
+            "ＮＡＴＴＹ　ＳＷＡＮＫＹホールディングス"
+        ],
+        "sector": "小売業"
+    },
+    "7683": {
+        "search_keywords": [
+            "WA,Inc.",
+            "ダブルエー"
+        ],
+        "sector": "小売業"
+    },
+    "7685": {
+        "search_keywords": [
+            "BuySell Technologies Co.,Ltd.",
+            "ＢｕｙＳｅｌｌ　Ｔｅｃｈｎｏｌｏｇｉｅｓ"
+        ],
+        "sector": "卸売業"
+    },
+    "7701": {
+        "search_keywords": [
+            "Shimadzu",
+            "Shimadzu Corporation",
+            "島津製作所"
+        ],
+        "sector": "精密機器"
+    },
+    "7707": {
+        "search_keywords": [
+            "Precision System Science Co.,Ltd.",
+            "プレシジョン・システム・サイエンス"
+        ],
+        "sector": "精密機器"
+    },
+    "7716": {
+        "search_keywords": [
+            "NAKANISHI INC.",
+            "ナカニシ"
+        ],
+        "sector": "精密機器"
+    },
+    "7729": {
+        "search_keywords": [
+            "TOKYO SEIMITSU CO.,LTD.",
+            "東京精密"
+        ],
+        "sector": "精密機器"
+    },
+    "7731": {
+        "search_keywords": [
+            "NIKON CORPORATION",
+            "ニコン"
+        ],
+        "sector": "精密機器"
+    },
+    "7733": {
+        "search_keywords": [
+            "OLYMPUS CORPORATION",
+            "オリンパス"
+        ],
+        "sector": "精密機器"
+    },
+    "7735": {
+        "search_keywords": [
+            "SCREEN Holdings Co.,Ltd.",
+            "スクリン",
+            "ＳＣＲＥＥＮホールディングス"
+        ],
+        "sector": "電気機器"
+    },
+    "7740": {
+        "search_keywords": [
+            "Tamron Co.,Ltd.",
+            "タムロン"
+        ],
+        "sector": "精密機器"
+    },
+    "7741": {
+        "search_keywords": [
+            "HOYA CORPORATION",
+            "ＨＯＹＡ"
+        ],
+        "sector": "精密機器"
+    },
+    "7744": {
+        "search_keywords": [
+            "Noritsu Koki Co.,Ltd.",
+            "ノーリツ鋼機"
+        ],
+        "sector": "精密機器"
+    },
+    "7747": {
+        "search_keywords": [
+            "ASAHI INTECC CO.,LTD.",
+            "朝日インテック"
+        ],
+        "sector": "精密機器"
+    },
+    "7751": {
+        "search_keywords": [
+            "CANON INC.",
+            "キヤノン"
+        ],
+        "sector": "電気機器"
+    },
+    "7752": {
+        "search_keywords": [
+            "RICOH COMPANY,LTD.",
+            "リコー"
+        ],
+        "sector": "電気機器"
+    },
+    "7762": {
+        "search_keywords": [
+            "Citizen Watch Co.,Ltd.",
+            "シチズン",
+            "シチズン時計"
+        ],
+        "sector": "精密機器"
+    },
+    "7774": {
+        "search_keywords": [
+            "Japan Tissue Engineering Co.,Ltd.",
+            "ジャパン・ティッシュエンジニアリング"
+        ],
+        "sector": "精密機器"
+    },
+    "7776": {
+        "search_keywords": [
+            "CellSeed",
+            "CellSeed Inc.",
+            "セルシード"
+        ],
+        "sector": "精密機器"
+    },
+    "7777": {
+        "search_keywords": [
+            "3-D Matrix,Ltd.",
+            "スリー・ディー・マトリックス"
+        ],
+        "sector": "精密機器"
+    },
+    "7779": {
+        "search_keywords": [
+            "CYBERDYNE,INC.",
+            "ＣＹＢＥＲＤＹＮＥ"
+        ],
+        "sector": "精密機器"
+    },
+    "7792": {
+        "search_keywords": [
+            "Colan Totte.Co.,Ltd.",
+            "コラントッテ"
+        ],
+        "sector": "その他製品"
+    },
+    "7794": {
+        "search_keywords": [
+            "EDP",
+            "EDP Corporation",
+            "イーディーピー"
+        ],
+        "sector": "その他製品"
+    },
+    "7803": {
+        "search_keywords": [
+            "Bushiroad",
+            "Bushiroad Inc.",
+            "ブシロード"
+        ],
+        "sector": "その他製品"
+    },
+    "7806": {
+        "search_keywords": [
+            "MTG Co.,Ltd.",
+            "ＭＴＧ"
+        ],
+        "sector": "その他製品"
+    },
+    "7832": {
+        "search_keywords": [
+            "Bandai Namco Holdings",
+            "Bandai Namco Holdings Inc.",
+            "バンダイナムコホールディングス",
+            "バンナムＨＤ"
+        ],
+        "sector": "その他製品"
+    },
+    "7846": {
+        "search_keywords": [
+            "PILOT CORPORATION",
+            "パイロットコーポレーション"
+        ],
+        "sector": "その他製品"
+    },
+    "7867": {
+        "search_keywords": [
+            "TOMY COMPANY,LTD.",
+            "タカラトミー"
+        ],
+        "sector": "その他製品"
+    },
+    "7906": {
+        "search_keywords": [
+            "YONEX CO.,LTD.",
+            "ヨネックス"
+        ],
+        "sector": "その他製品"
+    },
+    "7911": {
+        "search_keywords": [
+            "TOPPAN Holdings",
+            "TOPPAN Holdings Inc.",
+            "ＴＯＰＰＡＮ",
+            "ＴＯＰＰＡＮホールディングス"
+        ],
+        "sector": "その他製品"
+    },
+    "7912": {
+        "search_keywords": [
+            "Dai Nippon Printing Co.,Ltd.",
+            "大日印",
+            "大日本印刷"
+        ],
+        "sector": "その他製品"
+    },
+    "7936": {
+        "search_keywords": [
+            "ASICS",
+            "ASICS Corporation",
+            "アシックス"
+        ],
+        "sector": "その他製品"
+    },
+    "7944": {
+        "search_keywords": [
+            "Roland",
+            "Roland Corporation",
+            "ローランド"
+        ],
+        "sector": "その他製品"
+    },
+    "7951": {
+        "search_keywords": [
+            "YAMAHA CORPORATION",
+            "ヤマハ"
+        ],
+        "sector": "その他製品"
+    },
+    "7974": {
+        "search_keywords": [
+            "Nintendo Co.,Ltd.",
+            "任天堂"
+        ],
+        "sector": "その他製品"
+    },
+    "7988": {
+        "search_keywords": [
+            "NIFCO INC.",
+            "ニフコ"
+        ],
+        "sector": "化学"
+    },
+    "7994": {
+        "search_keywords": [
+            "OKAMURA CORPORATION",
+            "オカムラ"
+        ],
+        "sector": "その他製品"
+    },
+    "8001": {
+        "search_keywords": [
+            "ITOCHU",
+            "ITOCHU Corporation",
+            "伊藤忠",
+            "伊藤忠商事"
+        ],
+        "sector": "卸売業"
+    },
+    "8002": {
+        "search_keywords": [
+            "Marubeni",
+            "Marubeni Corporation",
+            "丸紅"
+        ],
+        "sector": "卸売業"
+    },
+    "8015": {
+        "search_keywords": [
+            "TOYOTA TSUSHO CORPORATION",
+            "豊田通商"
+        ],
+        "sector": "卸売業"
+    },
+    "8020": {
+        "search_keywords": [
+            "KANEMATSU CORPORATION",
+            "兼松"
+        ],
+        "sector": "卸売業"
+    },
+    "8031": {
+        "search_keywords": [
+            "MITSUI & CO.,LTD.",
+            "三井物",
+            "三井物産"
+        ],
+        "sector": "卸売業"
+    },
+    "8035": {
+        "search_keywords": [
+            "Tokyo Electron Limited",
+            "東エレク",
+            "東京エレクトロン"
+        ],
+        "sector": "電気機器"
+    },
+    "8053": {
+        "search_keywords": [
+            "SUMITOMO CORPORATION (SUMITOMO SHOJI KAISHA,LTD.)",
+            "住友商",
+            "住友商事"
+        ],
+        "sector": "卸売業"
+    },
+    "8056": {
+        "search_keywords": [
+            "BIPROGY",
+            "BIPROGY Inc.",
+            "ＢＩＰＲＯＧＹ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "8058": {
+        "search_keywords": [
+            "Mitsubishi",
+            "Mitsubishi Corporation",
+            "三菱商",
+            "三菱商事"
+        ],
+        "sector": "卸売業"
+    },
+    "8060": {
+        "search_keywords": [
+            "Canon Marketing Japan",
+            "Canon Marketing Japan Inc.",
+            "キヤノンマーケティングジャパン"
+        ],
+        "sector": "卸売業"
+    },
+    "8078": {
+        "search_keywords": [
+            "HANWA CO.,LTD.",
+            "阪和興業"
+        ],
+        "sector": "卸売業"
+    },
+    "8088": {
+        "search_keywords": [
+            "IWATANI  CORPORATION",
+            "岩谷産業"
+        ],
+        "sector": "卸売業"
+    },
+    "8098": {
+        "search_keywords": [
+            "Inabata & Co.,Ltd.",
+            "稲畑産業"
+        ],
+        "sector": "卸売業"
+    },
+    "8111": {
+        "search_keywords": [
+            "Goldwin",
+            "Goldwin Inc.",
+            "ゴールドウイン"
+        ],
+        "sector": "繊維製品"
+    },
+    "8113": {
+        "search_keywords": [
+            "UNICHARM CORPORATION",
+            "ユニ・チャーム"
+        ],
+        "sector": "化学"
+    },
+    "8130": {
+        "search_keywords": [
+            "Sangetsu",
+            "Sangetsu Corporation",
+            "サンゲツ"
+        ],
+        "sector": "卸売業"
+    },
+    "8133": {
+        "search_keywords": [
+            "ITOCHU ENEX CO.,LTD.",
+            "伊藤忠エネクス"
+        ],
+        "sector": "卸売業"
+    },
+    "8136": {
+        "search_keywords": [
+            "Sanrio Company,Ltd.",
+            "サンリオ"
+        ],
+        "sector": "卸売業"
+    },
+    "8154": {
+        "search_keywords": [
+            "KAGA ELECTRONICS CO.,LTD.",
+            "加賀電子"
+        ],
+        "sector": "卸売業"
+    },
+    "8174": {
+        "search_keywords": [
+            "NIPPON GAS CO.,LTD.",
+            "日本瓦斯"
+        ],
+        "sector": "小売業"
+    },
+    "8194": {
+        "search_keywords": [
+            "LIFE CORPORATION",
+            "ライフコーポレーション"
+        ],
+        "sector": "小売業"
+    },
+    "8227": {
+        "search_keywords": [
+            "SHIMAMURA Co.,Ltd.",
+            "しまむら"
+        ],
+        "sector": "小売業"
+    },
+    "8233": {
+        "search_keywords": [
+            "Takashimaya Company,Limited",
+            "高島屋"
+        ],
+        "sector": "小売業"
+    },
+    "8252": {
+        "search_keywords": [
+            "MARUI GROUP CO.,LTD.",
+            "丸井グループ",
+            "丸井Ｇ"
+        ],
+        "sector": "小売業"
+    },
+    "8253": {
+        "search_keywords": [
+            "Credit Saison Co.,Ltd.",
+            "クレセゾン",
+            "クレディセゾン"
+        ],
+        "sector": "その他金融業"
+    },
+    "8267": {
+        "search_keywords": [
+            "AEON CO.,LTD.",
+            "イオン"
+        ],
+        "sector": "小売業"
+    },
+    "8279": {
+        "search_keywords": [
+            "YAOKO CO.,LTD",
+            "ヤオコー"
+        ],
+        "sector": "小売業"
+    },
+    "8304": {
+        "search_keywords": [
+            "Aozora Bank,Ltd.",
+            "あおぞら銀",
+            "あおぞら銀行"
+        ],
+        "sector": "銀行業"
+    },
+    "8306": {
+        "search_keywords": [
+            "Mitsubishi UFJ Financial Group,Inc.",
+            "三菱ＵＦＪ",
+            "三菱ＵＦＪフィナンシャル・グループ"
+        ],
+        "sector": "銀行業"
+    },
+    "8308": {
+        "search_keywords": [
+            "Resona Holdings",
+            "Resona Holdings, Inc.",
+            "りそなホールディングス",
+            "りそなＨＤ"
+        ],
+        "sector": "銀行業"
+    },
+    "8309": {
+        "search_keywords": [
+            "Sumitomo Mitsui Trust Group,Inc.",
+            "三井住友トラ",
+            "三井住友トラストグループ"
+        ],
+        "sector": "銀行業"
+    },
+    "8316": {
+        "search_keywords": [
+            "Sumitomo Mitsui Financial Group,Inc.",
+            "三井住友フィナンシャルグループ",
+            "三井住友ＦＧ"
+        ],
+        "sector": "銀行業"
+    },
+    "8331": {
+        "search_keywords": [
+            "The Chiba Bank,Ltd.",
+            "千葉銀",
+            "千葉銀行"
+        ],
+        "sector": "銀行業"
+    },
+    "8354": {
+        "search_keywords": [
+            "Fukuoka Financial Group,Inc.",
+            "ふくおかフィナンシャルグループ",
+            "ふくおかＦＧ"
+        ],
+        "sector": "銀行業"
+    },
+    "8410": {
+        "search_keywords": [
+            "Seven Bank,Ltd.",
+            "セブン銀行"
+        ],
+        "sector": "銀行業"
+    },
+    "8411": {
+        "search_keywords": [
+            "Mizuho Financial Group,Inc.",
+            "みずほフィナンシャルグループ",
+            "みずほＦＧ"
+        ],
+        "sector": "銀行業"
+    },
+    "8424": {
+        "search_keywords": [
+            "Fuyo General Lease Co.,Ltd.",
+            "芙蓉総合リース"
+        ],
+        "sector": "その他金融業"
+    },
+    "8425": {
+        "search_keywords": [
+            "Mizuho Leasing Company,Limited",
+            "みずほリース"
+        ],
+        "sector": "その他金融業"
+    },
+    "8439": {
+        "search_keywords": [
+            "Tokyo Century",
+            "Tokyo Century Corporation",
+            "東京センチュリー"
+        ],
+        "sector": "その他金融業"
+    },
+    "8473": {
+        "search_keywords": [
+            "SBI Holdings,Inc.",
+            "ＳＢＩホールディングス"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "8515": {
+        "search_keywords": [
+            "AIFUL CORPORATION",
+            "アイフル"
+        ],
+        "sector": "その他金融業"
+    },
+    "8572": {
+        "search_keywords": [
+            "ACOM CO.,LTD.",
+            "アコム"
+        ],
+        "sector": "その他金融業"
+    },
+    "8584": {
+        "search_keywords": [
+            "JACCS CO.,LTD.",
+            "ジャックス"
+        ],
+        "sector": "その他金融業"
+    },
+    "8591": {
+        "search_keywords": [
+            "ORIX CORPORATION",
+            "オリックス"
+        ],
+        "sector": "その他金融業"
+    },
+    "8593": {
+        "search_keywords": [
+            "Mitsubishi HC Capital",
+            "Mitsubishi HC Capital Inc.",
+            "三菱ＨＣキャピタル"
+        ],
+        "sector": "その他金融業"
+    },
+    "8601": {
+        "search_keywords": [
+            "Daiwa Securities Group",
+            "Daiwa Securities Group Inc.",
+            "大和",
+            "大和証券グループ本社"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "8604": {
+        "search_keywords": [
+            "Nomura Holdings",
+            "Nomura Holdings, Inc.",
+            "野村",
+            "野村ホールディングス"
+        ],
+        "sector": "証券･商品先物取引業"
+    },
+    "8630": {
+        "search_keywords": [
+            "Sompo Holdings,Inc.",
+            "ＳＯＭＰＯ",
+            "ＳＯＭＰＯホールディングス"
+        ],
+        "sector": "保険業"
+    },
+    "8697": {
+        "search_keywords": [
+            "Japan Exchange Group,Inc.",
+            "日本取引所",
+            "日本取引所グループ"
+        ],
+        "sector": "その他金融業"
+    },
+    "8725": {
+        "search_keywords": [
+            "MS&AD Insurance Group Holdings,Inc.",
+            "ＭＳ＆ＡＤ",
+            "ＭＳ＆ＡＤインシュアランスグループホールディングス"
+        ],
+        "sector": "保険業"
+    },
+    "8750": {
+        "search_keywords": [
+            "Dai-ichi Life Holdings,Inc.",
+            "第一生命ホールディングス",
+            "第一生命ＨＤ"
+        ],
+        "sector": "保険業"
+    },
+    "8766": {
+        "search_keywords": [
+            "Tokio Marine Holdings,Inc.",
+            "東京海上",
+            "東京海上ホールディングス"
+        ],
+        "sector": "保険業"
+    },
+    "8795": {
+        "search_keywords": [
+            "T&D Holdings",
+            "T&D Holdings, Inc.",
+            "Ｔ＆Ｄ",
+            "Ｔ＆Ｄホールディングス"
+        ],
+        "sector": "保険業"
+    },
+    "8801": {
+        "search_keywords": [
+            "Mitsui Fudosan Co.,Ltd.",
+            "三井不",
+            "三井不動産"
+        ],
+        "sector": "不動産業"
+    },
+    "8802": {
+        "search_keywords": [
+            "Mitsubishi Estate Company,Limited",
+            "三菱地所",
+            "菱地所"
+        ],
+        "sector": "不動産業"
+    },
+    "8804": {
+        "search_keywords": [
+            "Tokyo Tatemono Co.,Ltd.",
+            "東京建物",
+            "東建物"
+        ],
+        "sector": "不動産業"
+    },
+    "8830": {
+        "search_keywords": [
+            "Sumitomo Realty & Development Co.,Ltd.",
+            "住友不",
+            "住友不動産"
+        ],
+        "sector": "不動産業"
+    },
+    "8848": {
+        "search_keywords": [
+            "LEOPALACE21 CORPORATION",
+            "レオパレス２１"
+        ],
+        "sector": "不動産業"
+    },
+    "8850": {
+        "search_keywords": [
+            "STARTS CORPORATION INC.",
+            "スターツコーポレーション"
+        ],
+        "sector": "不動産業"
+    },
+    "8876": {
+        "search_keywords": [
+            "Relo Group,Inc.",
+            "リログループ"
+        ],
+        "sector": "サービス業"
+    },
+    "8919": {
+        "search_keywords": [
+            "KATITAS CO.,LTD",
+            "カチタス"
+        ],
+        "sector": "不動産業"
+    },
+    "8923": {
+        "search_keywords": [
+            "TOSEI CORPORATION",
+            "トーセイ"
+        ],
+        "sector": "不動産業"
+    },
+    "9001": {
+        "search_keywords": [
+            "TOBU RAILWAY CO.,LTD.",
+            "東武",
+            "東武鉄道"
+        ],
+        "sector": "陸運業"
+    },
+    "9005": {
+        "search_keywords": [
+            "TOKYU CORPORATION",
+            "東急"
+        ],
+        "sector": "陸運業"
+    },
+    "9006": {
+        "search_keywords": [
+            "Keikyu",
+            "Keikyu Corporation",
+            "京浜急行電鉄"
+        ],
+        "sector": "陸運業"
+    },
+    "9007": {
+        "search_keywords": [
+            "Odakyu Electric Railway Co.,Ltd.",
+            "小田急",
+            "小田急電鉄"
+        ],
+        "sector": "陸運業"
+    },
+    "9008": {
+        "search_keywords": [
+            "Keio",
+            "Keio Corporation",
+            "京王",
+            "京王電鉄"
+        ],
+        "sector": "陸運業"
+    },
+    "9009": {
+        "search_keywords": [
+            "Keisei Electric Railway Co.,Ltd.",
+            "京成",
+            "京成電鉄"
+        ],
+        "sector": "陸運業"
+    },
+    "9020": {
+        "search_keywords": [
+            "East Japan Railway Company",
+            "東日本旅客鉄道",
+            "ＪＲ東日本"
+        ],
+        "sector": "陸運業"
+    },
+    "9021": {
+        "search_keywords": [
+            "West Japan Railway Company",
+            "西日本旅客鉄道",
+            "ＪＲ西日本"
+        ],
+        "sector": "陸運業"
+    },
+    "9022": {
+        "search_keywords": [
+            "Central Japan Railway Company",
+            "東海旅客鉄道",
+            "ＪＲ東海"
+        ],
+        "sector": "陸運業"
+    },
+    "9024": {
+        "search_keywords": [
+            "SEIBU HOLDINGS INC.",
+            "西武ホールディングス"
+        ],
+        "sector": "陸運業"
+    },
+    "9041": {
+        "search_keywords": [
+            "Kintetsu Group Holdings Co.,Ltd.",
+            "近鉄グループホールディングス"
+        ],
+        "sector": "陸運業"
+    },
+    "9064": {
+        "search_keywords": [
+            "YAMATO HOLDINGS CO.,LTD.",
+            "ヤマトホールディングス",
+            "ヤマトＨＤ"
+        ],
+        "sector": "陸運業"
+    },
+    "9065": {
+        "search_keywords": [
+            "SANKYU INC.",
+            "山九"
+        ],
+        "sector": "陸運業"
+    },
+    "9069": {
+        "search_keywords": [
+            "SENKO Group Holdings Co.,Ltd.",
+            "センコーグループホールディングス"
+        ],
+        "sector": "陸運業"
+    },
+    "9090": {
+        "search_keywords": [
+            "AZ-COM MARUWA Holdings",
+            "AZ-COM MARUWA Holdings Inc.",
+            "ＡＺ−ＣＯＭ丸和ホールディングス",
+            "ＡＺ－ＣＯＭ丸和ホールディングス"
+        ],
+        "sector": "陸運業"
+    },
+    "9101": {
+        "search_keywords": [
+            "Nippon Yusen Kabushiki Kaisha",
+            "日本郵船",
+            "郵船"
+        ],
+        "sector": "海運業"
+    },
+    "9104": {
+        "search_keywords": [
+            "Mitsui O.S.K.Lines,Ltd.",
+            "商船三井"
+        ],
+        "sector": "海運業"
+    },
+    "9107": {
+        "search_keywords": [
+            "Kawasaki Kisen Kaisha,Ltd.",
+            "川崎汽",
+            "川崎汽船"
+        ],
+        "sector": "海運業"
+    },
+    "9110": {
+        "search_keywords": [
+            "NS United Kaiun Kaisha,Ltd.",
+            "ＮＳユナイテッド海運"
+        ],
+        "sector": "海運業"
+    },
+    "9119": {
+        "search_keywords": [
+            "IINO KAIUN KAISHA,LTD.",
+            "飯野海運"
+        ],
+        "sector": "海運業"
+    },
+    "9142": {
+        "search_keywords": [
+            "Kyushu Railway Company",
+            "九州旅客鉄道"
+        ],
+        "sector": "陸運業"
+    },
+    "9143": {
+        "search_keywords": [
+            "SG HOLDINGS CO.,LTD.",
+            "ＳＧホールディングス"
+        ],
+        "sector": "陸運業"
+    },
+    "9147": {
+        "search_keywords": [
+            "NIPPON EXPRESS HOLDINGS,INC.",
+            "ＮＩＰＰＯＮ　ＥＸＰＲＥＳＳホールディングス",
+            "ＮＸＨＤ"
+        ],
+        "sector": "陸運業"
+    },
+    "9158": {
+        "search_keywords": [
+            "CUC",
+            "CUC Inc.",
+            "シーユーシー"
+        ],
+        "sector": "サービス業"
+    },
+    "9162": {
+        "search_keywords": [
+            "Bleach,Inc.",
+            "ブリーチ"
+        ],
+        "sector": "サービス業"
+    },
+    "9163": {
+        "search_keywords": [
+            "Nareru Group",
+            "Nareru Group Inc.",
+            "ナレルグループ"
+        ],
+        "sector": "サービス業"
+    },
+    "9164": {
+        "search_keywords": [
+            "TRYT",
+            "TRYT Inc.",
+            "トライト"
+        ],
+        "sector": "サービス業"
+    },
+    "9166": {
+        "search_keywords": [
+            "GENDA",
+            "GENDA Inc.",
+            "ＧＥＮＤＡ"
+        ],
+        "sector": "サービス業"
+    },
+    "9168": {
+        "search_keywords": [
+            "Rise Consulting Group,Inc.",
+            "ライズ・コンサルティング・グループ"
+        ],
+        "sector": "サービス業"
+    },
+    "9201": {
+        "search_keywords": [
+            "Japan Airlines Co.,Ltd.",
+            "日本航空",
+            "ＪＡＬ"
+        ],
+        "sector": "空運業"
+    },
+    "9202": {
+        "search_keywords": [
+            "ANA HOLDINGS INC.",
+            "ＡＮＡホールディングス",
+            "ＡＮＡＨＤ"
+        ],
+        "sector": "空運業"
+    },
+    "9204": {
+        "search_keywords": [
+            "Skymark Airlines",
+            "Skymark Airlines Inc.",
+            "スカイマーク"
+        ],
+        "sector": "空運業"
+    },
+    "9211": {
+        "search_keywords": [
+            "f-code",
+            "f-code Inc.",
+            "エフ・コード"
+        ],
+        "sector": "サービス業"
+    },
+    "9218": {
+        "search_keywords": [
+            "Mental Health Technologies Co.,Ltd.",
+            "メンタルヘルステクノロジーズ"
+        ],
+        "sector": "サービス業"
+    },
+    "9223": {
+        "search_keywords": [
+            "ASNOVA Co.,Ltd.",
+            "ＡＳＮＯＶＡ"
+        ],
+        "sector": "サービス業"
+    },
+    "9227": {
+        "search_keywords": [
+            "Microwave Chemical Co.,Ltd.",
+            "マイクロ波化学"
+        ],
+        "sector": "サービス業"
+    },
+    "9245": {
+        "search_keywords": [
+            "Livero",
+            "Livero Inc.",
+            "リベロ"
+        ],
+        "sector": "サービス業"
+    },
+    "9251": {
+        "search_keywords": [
+            "AB&Company Co.,Ltd.",
+            "ＡＢ＆Ｃｏｍｐａｎｙ"
+        ],
+        "sector": "サービス業"
+    },
+    "9252": {
+        "search_keywords": [
+            "Last One Mile Co.,Ltd.",
+            "ラストワンマイル"
+        ],
+        "sector": "サービス業"
+    },
+    "9270": {
+        "search_keywords": [
+            "Valuence Holdings",
+            "Valuence Holdings Inc.",
+            "バリュエンスホールディングス"
+        ],
+        "sector": "卸売業"
+    },
+    "9272": {
+        "search_keywords": [
+            "Boutiques,Inc.",
+            "ブティックス"
+        ],
+        "sector": "サービス業"
+    },
+    "9302": {
+        "search_keywords": [
+            "MITSUI-SOKO HOLDINGS Co.,Ltd.",
+            "三井倉庫ホールディングス"
+        ],
+        "sector": "倉庫･運輸関連業"
+    },
+    "9338": {
+        "search_keywords": [
+            "INFORICH INC.",
+            "ＩＮＦＯＲＩＣＨ"
+        ],
+        "sector": "サービス業"
+    },
+    "9343": {
+        "search_keywords": [
+            "ibis inc.",
+            "アイビス"
+        ],
+        "sector": "サービス業"
+    },
+    "9348": {
+        "search_keywords": [
+            "ispace,inc.",
+            "ｉｓｐａｃｅ"
+        ],
+        "sector": "サービス業"
+    },
+    "9418": {
+        "search_keywords": [
+            "U-NEXT HOLDINGS Co.,Ltd.",
+            "Ｕ−ＮＥＸＴ　ＨＯＬＤＩＮＧＳ",
+            "Ｕ－ＮＥＸＴ　ＨＯＬＤＩＮＧＳ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9432": {
+        "search_keywords": [
+            "NTT,Inc.",
+            "ＮＴＴ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9433": {
+        "search_keywords": [
+            "KDDI CORPORATION",
+            "ＫＤＤＩ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9434": {
+        "search_keywords": [
+            "SoftBank Corp.",
+            "ソフトバンク",
+            "ＳＢ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9435": {
+        "search_keywords": [
+            "HIKARI TSUSHIN,INC.",
+            "光通信"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9449": {
+        "search_keywords": [
+            "GMO internet group,Inc.",
+            "ＧＭＯインターネットグループ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9467": {
+        "search_keywords": [
+            "AlphaPolis Co.,Ltd.",
+            "アルファポリス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9501": {
+        "search_keywords": [
+            "Tokyo Electric Power Company Holdings,Incorporated",
+            "東京電力ホールディングス",
+            "東電ＨＤ"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9502": {
+        "search_keywords": [
+            "Chubu Electric Power Company,Incorporated",
+            "中部電",
+            "中部電力"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9503": {
+        "search_keywords": [
+            "The Kansai Electric Power Company,Incorporated",
+            "関西電",
+            "関西電力"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9506": {
+        "search_keywords": [
+            "Tohoku Electric Power Company,Incorporated",
+            "東北電力"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9507": {
+        "search_keywords": [
+            "Shikoku Electric Power Company,Incorporated",
+            "四国電力"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9508": {
+        "search_keywords": [
+            "Kyushu Electric Power Company,Incorporated",
+            "九州電力"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9509": {
+        "search_keywords": [
+            "Hokkaido Electric Power Company,Incorporated",
+            "北海道電力"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9513": {
+        "search_keywords": [
+            "Electric Power Development Co.,Ltd.",
+            "電源開発"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9531": {
+        "search_keywords": [
+            "TOKYO GAS CO.,LTD.",
+            "東ガス",
+            "東京瓦斯"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9532": {
+        "search_keywords": [
+            "OSAKA GAS CO.,LTD.",
+            "大ガス",
+            "大阪瓦斯"
+        ],
+        "sector": "電気･ガス業"
+    },
+    "9553": {
+        "search_keywords": [
+            "MicroAd,Inc.",
+            "マイクロアド"
+        ],
+        "sector": "サービス業"
+    },
+    "9556": {
+        "search_keywords": [
+            "INTLOOP",
+            "INTLOOP Inc.",
+            "ＩＮＴＬＯＯＰ"
+        ],
+        "sector": "サービス業"
+    },
+    "9558": {
+        "search_keywords": [
+            "Japaniace Co.,Ltd.",
+            "ジャパニアス"
+        ],
+        "sector": "サービス業"
+    },
+    "9560": {
+        "search_keywords": [
+            "PROGRIT",
+            "PROGRIT Inc.",
+            "プログリット"
+        ],
+        "sector": "サービス業"
+    },
+    "9561": {
+        "search_keywords": [
+            "GLAD CUBE",
+            "GLAD CUBE Inc.",
+            "グラッドキューブ"
+        ],
+        "sector": "サービス業"
+    },
+    "9602": {
+        "search_keywords": [
+            "TOHO CO.,LTD",
+            "東宝"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9684": {
+        "search_keywords": [
+            "SQUARE ENIX HOLDINGS CO.,LTD.",
+            "スクウェア・エニックス・ホールディングス"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9697": {
+        "search_keywords": [
+            "CAPCOM CO.,LTD.",
+            "カプコン"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9719": {
+        "search_keywords": [
+            "SCSK",
+            "SCSK Corporation",
+            "ＳＣＳＫ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9735": {
+        "search_keywords": [
+            "SECOM CO.,LTD.",
+            "セコム"
+        ],
+        "sector": "サービス業"
+    },
+    "9744": {
+        "search_keywords": [
+            "MEITEC Group Holdings",
+            "MEITEC Group Holdings Inc.",
+            "メイテックグループホールディングス"
+        ],
+        "sector": "サービス業"
+    },
+    "9759": {
+        "search_keywords": [
+            "NSD CO.,LTD.",
+            "ＮＳＤ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9766": {
+        "search_keywords": [
+            "KONAMI GROUP CORPORATION",
+            "コナミグループ",
+            "コナミＧ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9843": {
+        "search_keywords": [
+            "Nitori Holdings Co.,Ltd.",
+            "ニトリホールディングス",
+            "ニトリＨＤ"
+        ],
+        "sector": "小売業"
+    },
+    "9962": {
+        "search_keywords": [
+            "MISUMI Group",
+            "MISUMI Group Inc.",
+            "ミスミグループ本社"
+        ],
+        "sector": "卸売業"
+    },
+    "9983": {
+        "search_keywords": [
+            "FAST RETAILING CO.,LTD.",
+            "ファストリ",
+            "ファーストリテイリング"
+        ],
+        "sector": "小売業"
+    },
+    "9984": {
+        "search_keywords": [
+            "SoftBank Group Corp.",
+            "ソフトバンクグループ",
+            "ＳＢＧ"
+        ],
+        "sector": "情報･通信業"
+    },
+    "9989": {
+        "search_keywords": [
+            "SUNDRUG CO.,LTD.",
+            "サンドラッグ"
+        ],
+        "sector": "小売業"
+    }
+}

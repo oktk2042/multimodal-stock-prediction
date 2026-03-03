@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies (CPU-only PyTorch)
+        run: |
+          uv sync --extra dev --index-url https://download.pytorch.org/whl/cpu
+        env:
+          UV_EXTRA_INDEX_URL: https://download.pytorch.org/whl/cpu
+
+      - name: Lint with ruff
+        run: uv run ruff check 2_src/
+
+      - name: Check formatting with ruff
+        run: uv run ruff format --check 2_src/
+
+  import-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies (CPU-only PyTorch)
+        run: |
+          uv sync --index-url https://download.pytorch.org/whl/cpu
+        env:
+          UV_EXTRA_INDEX_URL: https://download.pytorch.org/whl/cpu
+
+      - name: Test model architecture imports
+        run: |
+          cd 2_src/models
+          uv run python -c "
+          from arch.fusion_transformer import FusionTransformer
+          from arch.transformer import VanillaTransformer
+          from arch.itransformer import iTransformer
+          from arch.lstm_attn import AttentionLSTM
+          from arch.patchtst import PatchTST
+          from arch.dlinear import DLinear
+          from layers.revin import RevIN
+          from layers.embed import DataEmbedding, PositionalEmbedding
+          from layers.self_attention_family import Encoder, EncoderLayer, FullAttention
+          print('All model architecture imports OK')
+          "
+
+      - name: Test model instantiation
+        run: |
+          cd 2_src/models
+          uv run python -c "
+          import torch
+          from arch.fusion_transformer import FusionTransformer
+          from arch.dlinear import DLinear
+
+          # Test FusionTransformer
+          model = FusionTransformer(
+              input_dim=10, d_model=32, n_heads=2, num_layers=1,
+              seq_len=20, pred_len=1, dropout=0.1,
+              market_cols_idx=list(range(5)),
+              text_cols_idx=list(range(5, 10)),
+          )
+          x = torch.randn(2, 20, 10)
+          out = model(x)
+          assert out.shape == (2, 1), f'Expected (2,1), got {out.shape}'
+
+          # Test DLinear
+          model = DLinear(input_dim=10, seq_len=20, pred_len=1)
+          out = model(x)
+          assert out.shape == (2, 1), f'Expected (2,1), got {out.shape}'
+
+          print('Model instantiation and forward pass OK')
+          "
