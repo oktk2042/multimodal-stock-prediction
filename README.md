@@ -1,6 +1,46 @@
 # Multi-Modal Gated Transformer for Japanese Stock Return Prediction
 
-Master's thesis research: Predicting 5-day-ahead stock returns for Japanese equities by fusing financial text (news headlines, EDINET filings) with market data through a gated cross-attention transformer.
+**修士論文: 大規模言語モデルによる市場感情とテクニカル指標を統合したマルチモーダルTransformerの構築と評価**
+
+> 富山大学大学院 理工学研究科 理工学専攻 数理情報学プログラム システム工学研究室
+> 大木 雅斗（指導教員: 参沢 匡将 准教授）
+
+日本株市場の流動性上位200銘柄を対象に、ニュースや決算情報といったテキストデータと株価・テクニカル指標等の数値データを**Gated Cross-Attention機構**で動的に統合するマルチモーダルTransformerを提案した。ゲート機構により「必要な時だけ、必要な情報を」取り込むことで、テキスト情報のノイズを抑制し、SOTAモデルを上回る予測精度を達成した。
+
+## 主要な成果
+
+### 予測精度: 全8モデル中で最高のAccuracyを達成
+
+| Model | Accuracy (%) | RMSE | Type |
+|-------|-------------|------|------|
+| **Multi-Modal Gated Transformer（提案手法）** | **54.86** | 559.66 | Transformer (multi-modal) |
+| Attention-LSTM | 54.52 | 559.96 | RNN |
+| PatchTST (SOTA) | 54.10 | 561.04 | Transformer (patch-based) |
+| DLinear | 50.99 | 561.22 | Linear (decomposition) |
+| iTransformer | 48.15 | 560.52 | Transformer (inverted) |
+| LightGBM | 46.52 | 558.75 | Gradient Boosting |
+| Ridge Regression | 46.24 | 552.68 | Linear |
+| Vanilla Transformer | 44.75 | 559.66 | Transformer |
+
+### アブレーション研究: Gating機構の除去で-4.79ppの精度低下
+
+| 構成要素の削除 | Accuracy (%) | 精度低下 |
+|-------------|-------------|--------|
+| Proposed（Full） | 54.51 | - |
+| w/o Text | 54.06 | -0.45 pp |
+| w/o CNN | 53.83 | -0.68 pp |
+| **w/o Gating** | **49.72** | **-4.79 pp** |
+
+### 運用シミュレーション: 市場平均を大幅にアウトパフォーム
+
+| 指標 | 市場平均（Buy & Hold） | 提案手法（Gated Long-Only） |
+|------|---------------------|--------------------------|
+| 累積リターン | +13.3% | **+24.5%** |
+| シャープレシオ | 2.07 | **3.25** |
+
+研究の詳細は **[RESEARCH.md](RESEARCH.md)** を参照。
+
+---
 
 ## Project Structure
 
@@ -44,30 +84,6 @@ The core contribution is **FusionTransformer** (`2_src/models/arch/fusion_transf
 - **Positional Embedding** + Transformer Encoder for temporal modeling
 
 The gate mechanism learns to **open** when text signals are informative and **close** when they are noise, improving robustness.
-
-## Model Comparison
-
-8 models are compared for 5-day return prediction on the top 200 Japanese stocks:
-
-| Model | Accuracy (%) | Type |
-|-------|-------------|------|
-| **Multi-Modal Gated Transformer (Ours)** | **54.86** | Transformer (multi-modal) |
-| Attention-LSTM | 54.52 | RNN |
-| PatchTST | 54.10 | Transformer (patch-based) |
-| DLinear | 50.99 | Linear (decomposition) |
-| iTransformer | 48.15 | Transformer (inverted) |
-| LightGBM | 46.52 | Gradient Boosting |
-| Ridge Regression | 46.24 | Linear |
-| Vanilla Transformer | 44.75 | Transformer |
-
-### Ablation Study
-
-| Variant | Accuracy (%) |
-|---------|-------------|
-| Proposed (Full) | 54.51 |
-| w/o Text | 54.06 |
-| w/o CNN | 53.83 |
-| w/o Gating | 49.72 |
 
 ---
 
